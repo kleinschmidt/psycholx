@@ -1,0 +1,9 @@
+#+TITLE: Grad psycholinguistics
+
+* topics/theme
+  I think the overall theme is going to be variability vs. structure.  How much
+  do these affect processing?  How are they each represented?  What are the
+  computational demands they each pose?
+
+  Then there are the "classic" debates in psycholx: parsing wars, interactive
+  activation vs. feedforward, prediction.
