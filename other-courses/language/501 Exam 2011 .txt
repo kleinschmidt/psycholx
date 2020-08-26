@@ -1,0 +1,20 @@
+BCS 501 Final Exam
+Answer four of the following questions:  Each answer should be two pages or less.
+1. Discuss the evidence from speech perception concerning whether speech is special.  Then go on to discuss how phonetic categories of a particular language may be acquired from the initial auditory or linguistic capabilities with which the system begins. 
+
+2. Classic models of spoken word recognition claim lexical access takes place against a set of multiple lexical candidates that compete for recognition. Describe and evaluate the evidence in support of these notions. Has recent evidence for sensitivity to fine-grained information and rapid perceptual learning/adaptation altered that picture, and if so, how? 
+
+3. Compare structure-first models of syntactic processing with constraint-based models and expectancy-driven (surprisal) models. What are the major discrepancies among these classes of theories? What is the evidence for one of these types of models over the other? What types of further evidence would you want to see to evaluate these approaches?
+
+4. Contrast availability-based approaches and uniform-information density approaches to explaining the problem of syntactic choice in production.
+
+5. What are the phenomena that are most crucial for a model of language acquisition to account for? Summarize them, and explain why each is critical and/or potentially difficult for a model to explain.
+
+6. According to the Clark view of conversation, common ground provides the context for comprehension.  Recently, however, a number of studies suggest that speakers and addressees might be egocentric, at least during initial processes in production and comprehension.  Describe the nature of the evidence, critique it and propose a program of studies to empirically evaluate your critique.
+
+Answer one of the following questions:  Your answer should be about 3 pages
+7. During this semester you have also frequently heard the notion of “constraints” raised (in linguistic theories and descriptions, in acquisition, in comprehension, in parsing, etc.). What are the alternative types of “constraints" which could be involved in language and its processing? How do “constraints” compare with “principles”, “universals”, etc.? To what degree might the constraints or principles pertinent to, say, language acquisition or language structure be the same ones pertinent to comprehension and production?
+
+8. Outline a program of investigation concerning language and its representation in the brain.  In thinking about this issue, include at least two of the 3 major problems of language processing:  production, comprehension, and acquisition.  What are some major alternative ways of thinking about language in the brain; how would you study the problem (in principle; it’s okay to ignore practical limitations on what one can do with humans); and what would the answers tell us about the nature of language? 
+
+9. Throughout much of the 1980s and the 1990s, probabilistic models were strongly associated with connectionist-inspired approaches to language processing and language acquisition.  The Seidenberg (1999) Science paper presents an integrated approach to language that reflects this perspective. The last decade has seen a resurgence of probabilistic models, including learning models, in both processing and acquisition that are not committed to all the principles embodied in Seidenberg’s paper.  Update the Seidenberg paper either by presenting your own unified approach, or by laying out how you would change and/or update Seidenberg’s arguments.

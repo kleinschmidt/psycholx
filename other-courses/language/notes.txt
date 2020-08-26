@@ -1,0 +1,27 @@
+11-17-2011
+
+Higher-level/conversation stuff
+
+Language as action/language as product
+
+Action: rich context, language situated in collaborative action
+  "Product studies things that are at best artificial, at worst epiphenomenal"
+Product: ?
+  "
+
+
+12-8-2011
+
+Sarah's question:
+developmental vs. adult theories, data:
+  modularity? how did the modules get there?
+  Sam: ...can always spin some story about development, might not be plausible...
+  Mike: at the beginning, everyone's doing mix of processing and acquisition, then, totally separate, then, connectionism...now what? statistical learning (mix of empirical and computational level)
+
+Productivity vs. progress:
+  evaluating someone's work: "what do we know because of what this person is doing?"
+  evaluating your own work: "what do I know now that I didn't know a year ago? what do I hope to know in three or four years?"
+  ("what would the paper look like?")
+
+Alyssa:
+Context...what is it?  If we take the broader view that it's the whole situation that matters, how do we avoid toy problems that don't scale up?  Or, the alternative, not thinking about it at all?

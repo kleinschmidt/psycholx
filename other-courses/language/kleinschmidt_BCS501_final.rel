@@ -1,0 +1,46 @@
+;; RefTeX parse info file
+;; File: /Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex
+;; User: dkleinschmidt (dkleinschmidt)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache ("Goldinger1998" . "Goldinger 1998, Echoes echoes? An episodic theory, Psychological review 105:251") ("Marslen-Wilson1987" . "Marslen-Wilson 1987, Funct. parall. spok. word recogn., Cognition 25:71") ("Kuhl1978" . "Kuhl & Miller 1978, Speech perc. chinch. Ident. funct., The Journal of the Acoustical Society of America 63:905") ("Seidenberg1997" . "Seidenberg 1997, Lang. acqu. use: learn. apply., Science 275:1599") ("Ma2006" . "Ma etal. 2006, Bayes. infer. with prob. popul., Nature neuroscience 9:1432") ("Sanborn2010" . "Sanborn etal. 2010, Rati. appr. rati. models: Altern., Psychological review 117:1144") ("Toscano2010" . "Toscano & McMurray 2010, Cue integr. with categ. Weight., Cognitive science 34:434") ("Bejjanki2011" . "Bejjanki etal. 2011, Cue integr. categ. tasks: insights, PloS one 6:e19812") ("Morgan2008" . "Morgan etal. 2008, Mult. integr. macaq. visu. cort., Neuron 59:662") ("Rodriguez2010" . "Rodriguez etal. 2010, Neur. Modul. Tuning Char. Scale, Journal of Neuroscience 30:15969") ("Lewicki2002" . "Lewicki 2002, Efficient coding natural sounds., Nature neuroscience 5:356") ("Olshausen1996" . "Olshausen & Field 1996, Emergence simple cell receptive field, Nature 381:607") ("Fine2010" . "Fine etal. 2010, there synt. adapt. lang. compr., in: ACL Workshop Cognitive Modeling, 18") ("Eisner2006" . "Eisner & McQueen 2006, Perc. learn. speech: Stab. over, The Journal of the Acoustical Society of America 119:1950") ("Kraljic2005" . "Kraljic & Samuel 2005, Perceptual learning speech: there return, Cognitive psychology 51:141") ("Clayards2008" . "Clayards etal. 2008, Perception speech reflects optimal use, Cognition 108:804") ("Fine2011" . "Fine & Jaeger 2011, Lang. compr. sens. chang. reli., in: 33rd Annual Meeting Cognitive") ("Wells2009" . "Wells etal. 2009, Exper. sent. proc. stat. learn., Cognitive psychology 58:250") ("Norris2008" . "Norris & McQueen 2008, Shortlist B: Bayesian model continuous, Psychological review 115:357") ("Levy2008" . "Levy 2008, Expect. based synt. compr., Cognition 106:1126") ("Magnuson2007" . "Magnuson etal. 2007, dynam. lexic. comp. during spok., Cognitive science 31:133") ("Feldman2009" . "Feldman etal. 2009, Learn. phon. categ. learn. lexic., Proceedings of the 31st Annual Conference of the Cognitive Science Society 2208") ("Kuhl2004" . "Kuhl 2004, Early lang. acqu. crack. speech, Nature reviews. Neuroscience 5:831") ("Lupyan2008" . "Lupyan 2008, conc. group. effect: categ. matt., Cognition 108:566") ("Lupyan2010" . "Lupyan & Spivey 2010, Making invisible visible: verbal but, PloS one 5:e11452"))
+
+(master-dir . "/Users/dkleinschmidt/school/language/")
+
+(label-numbers)
+
+(bof "/Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex")
+
+(toc "toc" "    * 1. Speech perception" "/Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex" nil 2 "*" "\\section*{1. Speech perception}" 206)
+
+("sec:1.-speech-perception" "s" "One major source of evidence for the early speech-is-special position comes from the phenomenon of c" "/Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex" nil)
+
+(toc "toc" "    * 2. Spoken word recognition" "/Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex" nil 2 "*" "\\section*{2. Spoken word recognition}" 4078)
+
+("sec:2.-spoken-word" "s" "\\pagebreak \\section*{3. Syntactic processing}  \\pagebreak \\section*{4. Syntactic choice in productio" "/Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex" nil)
+
+(toc "toc" "    * 3. Syntactic processing" "/Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex" nil 2 "*" "\\section*{3. Syntactic processing}" 8937)
+
+("sec:3.-synt-proc" "s" "\\pagebreak \\section*{4. Syntactic choice in production}  \\pagebreak \\section*{7-9. CHOOSE} \\label{se" "/Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex" nil)
+
+(toc "toc" "    * 4. Syntactic choice in production" "/Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex" nil 2 "*" "\\section*{4. Syntactic choice in production}" 13351)
+
+("sec:4.-syntactic-choice" "s" "\\pagebreak \\section*{7-9. CHOOSE}  \\pagebreak \\singlespacing \\bibliographystyle{apacitex} \\bibliogra" "/Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex" nil)
+
+(toc "toc" "    * 7-9. CHOOSE" "/Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex" nil 2 "*" "\\section*{7-9. CHOOSE}" 17225)
+
+("sec:7-9.-choose" "s" "\\pagebreak \\singlespacing \\bibliographystyle{apacitex} \\bibliography{/Users/dkleinschmidt/Documents/" "/Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex" nil)
+
+(bib "/Users/dkleinschmidt/Documents/papers/library.bib")
+
+(eof "/Users/dkleinschmidt/school/language/kleinschmidt_BCS501_final.tex")
+))
+

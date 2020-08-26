@@ -1,0 +1,111 @@
+Notes for BCS 501 (Language) final exam
+
+< 2 pages, pick 4
+
+*1. Speech perception: is speech special?
+  Categorical perception (but animal stuff)
+  Development/acquisition (but statistical learning/cortical representations)
+  ...can discriminate nearly all pairs of sounds that contrast in some language (in accordance with the animal work which suggests that the general mammalian auditory system is capable of representing the acoustic features which distinguish human speech sounds, and that moreover these representations can be used to make behavioral distinctions between speech sound categories, often at surprisingly high levels of abstraction.
+  ...are sensitive to input statistics (both transitional probabilities, 8mo and acoustic-distributional, 6mo)
+  ...are sensitive to prosodic patterns of native language from very early age (neonates)
+  it is in principle possible to recover categorical structure given such distributional information via general-purpose category learning mechanisms.
+
+*2. Spoken word recognition models
+  Classical models:
+  Cohort model: words activated in parallel through purely bottom-up info
+    selection is due to integration of candidate set with other info (from context, etc.)
+    uniqueness point: number of phonemes before word can be unambiguously IDed
+    
+    cohort/competitor effects,
+    gating studies (review the MW stuff)
+    cross-modal priming (priming for cohort members early but not late)
+  FIne-grained evidence generally supports the idea of multiple candidates...but isn't there something about the set of candidates? not being a set? or really  
+    ...but activation is not a winnowing-down of a subset of candidates based on their phonemic sequence.  instead, competition and fine-grained goodness-of-fit
+  Moreover, goodness-of-fit is flexible (perceptual learning)
+  AND takes into account higher-level/non-local factors (compensation for coarticulation, ganong effect)
+
+3. Struture-first, constraint-, and expectation-based parsing
+  structure-first: create a single syntactic parse first, based only on, say, part of speech, and general principles like minimum attachment, then re-evaluate later if necessary, finally inserting actual words
+  constraint-based: use all available (possibly probabilistic or semantic) constraints to create a parse
+  expectation-based: maintain distribution or ranking of parses; re-ranking is costly; likelihood of needing to re-rank depends on conditional probability of word given context
+    (combines resource-allocation features of structure-first accounts with parallel/integrationist/prediction-generating features of constraint-based theories...)
+  WHAT ARE SPECIFIC DATA FOR EXPECTATION-BASED??
+Discrepancies between these classes?
+  Serial vs. parallel; category-based parsing vs. rich representations/use of all available information (including statistical subcat. biases, word freq, etc)
+  garden paths are either categorically different (re-analysis stage kicks in) or end of a continuum (inconsistencies/change in ordering)
+Evidence for one over the others?
+  ? Early use of info beyond syntactic category ?
+  
+
+4. availability vs. UID approaches in production (specifically: syntactic choice)
+  availability
+    an egocentric strategy: just say whatever comes to mind, even if it will confuse your interlocutor
+    disfluencies are epiphenomenon of production difficulty
+    pauses/that mentioning before less accessible words
+  UID posits that speakers modulate their productions in order to maintain an even rate of information transmission, avoiding things that are confusing AND/OR slowing down for hard words AND/OR dropping low-info words
+    disfluencies can be thought of as cue to upcoming comprehension difficulty
+    predicts more disfluencies/clauses/etc. for words that are difficult to predict (Wagner Cook et al, 2009, video description task, DO/PP alternation, more disfluencies and gesture during production of high-info structures) --> maybe not relevant, contrasts with predictions of "incrementality" accounts (Ferreira 1996).
+    predicts more bi-clausal sturctures for high-info themes (Carlos' stuff: fruit stand game)
+ambiguity avoidance:
+ UID predicts it (if info is computed from listener's point of view)
+ 
+ACTION VS. PRODUCT TRADITIONS
+  action: meaning/plan/intention of speaker is primary
+    speaker should distribute effort over utterance in such a way as to maximize clarity of message
+    --> UID
+    it follows from this that high-info words or phrases should be put into their own clauses (Carlos)
+    disfluencies are cues to high information content (comprehension difficulty)
+      ...so speakers should produce more during high-info utterances
+    optional 'that' can play the same role
+    (both collateral cues)
+  product: focuses on process of grammatical encoding, nothing really to say about role of listener
+    (except for alignment model, which doesn't say much of substance)
+  
+
+5. Language acquisition: what's crucial to be explained, and why?
+  could probably make something up about this but it's gonna take some reading...language universality, poverty of the stimulus, negative evidence, 
+
+6. Clark (common-ground) vs. egocentrism
+  
+
+~3 pages, pick 1
+7. Constraints: what are they? Relate to "principles' or 'universals'? Connect processing and acquisition?
+8. Language and the brain: outline a program (two of comprehension, production, and acquisition)
+  Structure learning and adaptation: both look like learning; are they?  How are they implemented in neural circuits?  Even if they're functionally similar/the same thing, are they neurally similar/the same thing?  Moreover, is there a general-purpose structure-learning "module", or are these handled by domain-specific areas?
+  Could draw on Vroomen's paper on recalibration "in the scanner"
+9. Update Seidenberg.
+  This one is a natural choice, and seems pretty straightforward: interpretable representations, "you're doing statitsics anyway", 
+
+what is the framework?
+  language as statistical inference: probability distributions over linguistic representations at different levels (and pre-linguistic perceptual information)
+  comprehension is inference of meaning (or intermediate linguistic units) based on input
+  acquisition is inference of structure given un-structured input (and "scaffolding" of dependency structure)
+how does it relate to other frameworks?
+  connectionism:
+    (revealed how much structure was latent in data)
+    (powerful, general-purpose learning models which pick up on regularities present in data)
+    realization that successful connectionist models are "just doing statistics" anyway
+    domain-general mechanisms or processes
+    suffers from lack of interpretable representations
+    and lack of basis in EITHER sound computational or implementational principles
+  generative/symbolic-representationalism/principles and parameters:
+    shares idea of hierarchical structure
+    rejects language-specificity
+    and rejects "strong" innateness (structure can be inferred based on data)
+
+complements experimental work in adaptation and life-long implicit learning
+  unifying theory of acquisition and comprehension
+also complements work on/perspective of embodied/situational/action framework
+  language system is the way it is in order to make robust predictions about upcoming events
+  (linguistic or otherwise)
+  points towards a resolution of methodological problem of studying toy problems/asking subjects to make explicit judgements about linguistic entitites (phonemes, words, structures, etc.):
+    these intermediate representations CAN be inferred, but don't NEED to be to fulfill the purpose of language
+makes contact with work in other domains about adaptation to natural statistics
+  ...as well as in "production" (motor planning)
+  (it's "zeitgeist-y", statistical-computer metaphor of the mind)
+area of weakness, potential criticism, or challenge: computational level, not implementation/algorithm
+  first of all, connectionism is really a computational level framework
+  Bayesian approaches have the advantage of providing a normative model
+  departure from normative behavior are interesting
+  (computational level explanations can provide window into implementation and algorithm)
+  (or at the very least help formulate interesting and unexplored hypotheses/questions)

@@ -7,3 +7,21 @@
 
   Then there are the "classic" debates in psycholx: parsing wars, interactive
   activation vs. feedforward, prediction.
+
+** exemplar models
+
+** availability vs. info theory models (production) 
+
+** stability vs. plasticity
+
+** parsing wars: structure or content?
+
+** methods
+   eye tracking, corpus, psychophysics, self-paced reading, computational
+   modeling
+
+** acquisition (related to stability/plasticity?)
+
+** what information is used when 
+   modularity vs. interaction.  perspective taking.  socio stuff.  prediction
+   vs. integration.
