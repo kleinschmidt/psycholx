@@ -13,6 +13,22 @@
   Then there are the "classic" debates in psycholx: parsing wars, interactive
   activation vs. feedforward, prediction.
 
+  The other big question is how foundational vs. "what I'm interested in now" to
+  make this.  More and more I'm leaning towards foundational (it'll correct some
+  of the things that are missing in Sten and Joselyn's preparation and probably
+  be more useful/interesting for the others...).  But putting together a reading
+  list is a little harder there I guess, so...  Maybe the first few weeks are
+  going to be "basic stuff you need to know" and the last few weeks will be
+  special topics?  I dunno.
+
+  what's the point of this class?  what are these students going to get out of
+  it?  they're all graduate students.  not all of them are studying language,
+  but many of them are.
+  
+** continuous vs. discrete  
+   e.g. categorical perception, graded grammaticality
+
+** top-down vs. bottom-up processing
 ** exemplar models
 
 ** availability vs. info theory models (production) 
@@ -20,13 +36,143 @@
 ** stability vs. plasticity
 
 ** parsing wars: structure or content?
-
 ** methods
    eye tracking, corpus, psychophysics, self-paced reading, computational
    modeling
 
+   especially interesting angle might be behavioral methods...how is language
+   processing reflected in BEHAVIOR?  what are the relevant behviors and what do
+   we know about them?  What kind of information can we hope to get from
+   language-related behavior?  What's the time/spatial/social scale at which
+   we're studying this behavior?
+   
 ** acquisition (related to stability/plasticity?)
 
 ** what information is used when 
    modularity vs. interaction.  perspective taking.  socio stuff.  prediction
    vs. integration.
+
+** role of context
+   
+* Schedule
+
+** 2020-09-01
+** 2020-09-08 NO CLASS
+** 2020-09-15
+** 2020-09-22
+** 2020-09-29
+** 2020-10-06
+** 2020-10-13
+** 2020-10-20
+** 2020-10-27
+** 2020-11-03
+** 2020-11-10
+** 2020-11-17
+** 2020-11-24
+** 2020-12-01
+** 2020-12-08
+
+* other classes
+  
+** BCS 501 (Mike's lang class)
+   This was pretty basic or introductory from what I remember...or rather,
+   foundational.  There was a lot of reading.  No syllabus but I have the emails
+   with readings/topics 
+
+*** week 1
+    Chomsky, N. (l980). Rules and representations.  The Behavioral and Brain
+    Sciences, 3(1), 1-15.
+
+    Miller, G.A. ( l965). Some preliminaries to psycholinguistics.  American
+    Psychologist, 20(1), 15-20.
+
+    Miller, G.A. (l990). The place of language in a scientific psychology. In G.A.
+
+    Miller (Ed.), Psychological Science, 1(1), 7-14.
+
+    Seidenberg, M. (1997) Language acquisition and use: Learning and applying
+    probabilistic constraints.  Science, 275, 1599-1603.
+
+    Hauser, M. D., Chomsky, N., &amp; Fitch, W. T. (2002). The faculty of language:
+    What is it, who has it, and how did it evolve? Science, 298, 1569-1579.
+
+*** week 2
+
+*** week 3? dick aslin guest lecture
+    probably something about speech...I have the slides 
+
+*** (missing week)
+*** sentence processing
+
+    Frazier, L. (1987).  Sentence processing: A tutorial review.  In
+    M. Coltheart (Ed.), Attention and Performance.  Hillsdale, NJ: Lawrence
+    Erlbaum Associates.
+
+    Gibson, E. (2002).  Linguistic complexity in sentence processing.  In Oxford
+    Encyclopedia of Cognitive Science
+
+    Marslen-Wilson, W.  (1973).  Linguistic structure and speech shadowing at
+    very short latencies.  Nature, 244, 522-523.
+
+    Marslen-Wilson, W.  (1975).  Sentence perception as an interactive parallel
+    process.  Science, 189, 226-228.
+
+    Levy R. (2008) Expectation-based sentence processing.  Cognition
+    
+    Tanenhaus, M.K. & Trueswell, J.C.  (1995). Sentence comprehension.  In:
+    J.L. Miller & P.D. Eimas (Eds.). Handbook of perception and cognition
+    Vol. 11: Speech, language and communication, 217-262.  San Diego, CA:
+    Academic Press.
+
+*** sentence production
+    Griffin, Z. M. (2003). A reversed word length effect in coordinating the
+    preparation and articulation of words in speaking. Psychonomic Bulletin and
+    Review, 10(3), 603-609.
+
+    Ferreira, V. (1996).  Is it better to give than to donate? Syntactic
+    flexibility in language production.  Journal of Memory and Language, 35, 724-755
+    
+    Dell et al. (2008) Saying the right thing at the right time
+
+
+*** perspective taking?
+    Wardlow Lane et al. (2006) Don't Talk about Pink Elephants!
+
+    Keysar et al. 2000 Taking Perspective in Conversation
+*** lissa (development)
+
+    Lenneberg, E.H.  (1969).  On explaining language: The development of
+    language in children can best be understood in the context of developmental
+    biology.  Science, 164, 635-643.
+
+    Gleitman, L.R., & Newport, E.L. (1995).  The invention of language by
+    children: Environmental and biological influences on the acquisition of
+    language.  In L.R. Gleitman and M. Liberman (Eds.), An Invitation to
+    Cognitive Science, 2nd ed.  Vol 1: Language.  Cambridge, MA: The MIT Press.
+
+    Newport, E.L.  (2002).  Critical periods in language development.  In
+    L. Nadel (Ed.), Encyclopedia of Cognitive Science.  London: Macmillan
+    Publishers Ltd./Nature Publishing Group.
+
+    Optional: Pinker, S. & Prince, A.  (1988). On language and connectionism:
+    Analysis of a parallel distributed processing model of language acquisition.
+    Cognition, 28, 73-193.]
+
+    Newport, E.L., & Aslin, R.N. (2000). Innately constrained learning: Blending
+    old and new approaches to language acquisition. In S. C. Howell, S. A. Fish,
+    and T. Keith-Lucas (eds.), Proceedings of the 24th Annual Boston University
+    Conference on Language Development.  Somerville, MA: Cascadilla Press.
+
+    Marcus, G., Vijayan, S., Bandi Rao, S., & Vishton,
+    P. M. (1999). Rule-learning in seven-month-old infants, Science, 283, 77-80.
+
+    Aslin, R.N. & Newport, E.L. (2011).  Statistical learning: From acquiring
+    specific items to forming general rules.  Current Directions in
+    Psychological Science, in press.
+*** visual world
+*** adaptation
+    (maybe this is from teh LSA institute?)
+** Lang and Cog
+   could do like an advanced version of this?
+** my own quals
+   psycholx section has some foundational stuff too...
