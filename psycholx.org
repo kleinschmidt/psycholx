@@ -5,6 +5,37 @@
   whenisgood: ygkyjpn
   http://whenisgood.net/2r8nkam
 
+* structure
+  a few weeks on "foundational" stuff: speech perception, sentence processing,
+  production?, pragmatics
+
+** what is language and why psycholx
+  
+** speech perception
+   categorical perception/continuous perception
+
+** spoken word recognition
+   
+** Sentence processing
+   garden path sentences, ambiguity, parsing
+
+   DLT?  classical parsing (content free) vs. lexical/constraint satisfaction
+   models (MacDonald stuff?)
+   
+** production
+
+** pragmatics/discourse
+
+** Info theory
+   syntax: levy/smith and levy
+
+   word structure (piantadosi stuff)
+
+** learning and adaptation
+   lots of stuff here...
+
+** structured vs. structure free
+   examplar models vs abstractionist
 * topics/theme
   I think the overall theme is going to be variability vs. structure.  How much
   do these affect processing?  How are they each represented?  What are the
@@ -74,6 +105,22 @@
 
 * other classes
   
+** BCS 501 (chigusa and mike version 2017)
+   [[https://docs.google.com/spreadsheets/d/1rQjU2_a6jeoXle8hGFT93jem8XidXOs6dUcungDXz-A/edit#gid=1386834576][Schedule and readings]] [[https://docs.google.com/spreadsheets/d/1WaMJ0N-7XvIcpCCY56_dwVd-XRVJD4nhOsgHngh4nic/][(my copy)]]
+
+   They spent first 8 classes on foundational stuff...lots of reading from the
+   oxford handbook plus some supplemental stuff.  Then 6 classes on more current
+   stuff I guess.
+
+   It's a very "mike and chigusa" flavored set of topics...lots of spoken word
+   recognition, information structure
+
+   I guess I don't necessarily need to cover exactly the same material since the
+   language people are all in my/karin's lab.  but I think some depth is going
+   to be really important.
+** BCS 501 (chigusa and mike 2015 version)
+   2x weekly, much more of a survey.
+
 ** BCS 501 (Mike's lang class)
    This was pretty basic or introductory from what I remember...or rather,
    foundational.  There was a lot of reading.  No syllabus but I have the emails
