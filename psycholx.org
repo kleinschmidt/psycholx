@@ -26,6 +26,8 @@
 
 ** pragmatics/discourse
 
+** sociolx
+
 ** Info theory
    syntax: levy/smith and levy
 
