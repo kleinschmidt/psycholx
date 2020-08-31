@@ -9,12 +9,18 @@
   a few weeks on "foundational" stuff: speech perception, sentence processing,
   production?, pragmatics
 
+** organizational meeting
+  
 ** what is language and why psycholx
   
 ** speech perception
    categorical perception/continuous perception
 
+   might also require introduction to the speech signal itself (for non-ling
+   folks).
+
 ** spoken word recognition
+   
    
 ** Sentence processing
    garden path sentences, ambiguity, parsing
@@ -23,21 +29,55 @@
    models (MacDonald stuff?)
    
 ** production
+   speech errors, sentence production too?
 
 ** pragmatics/discourse
+   RSA vs. traditional models?
 
 ** sociolx
+   "three waves" of sociolx; 
 
 ** Info theory
    syntax: levy/smith and levy
 
    word structure (piantadosi stuff)
 
+** noisy channel models
+   how/why are these distinct from purely "bayesian"/ideal observer models?
+   thinking about the production stuff and the Ryskin paper on learning the
+   noise model...
+
 ** learning and adaptation
    lots of stuff here...
 
+** speaker specific representations
+   I'm thinking both the long-term memory stuff in speech and the Kamide work on
+   high/low attachment preferences, maybe also informativity
+
 ** structured vs. structure free
    examplar models vs abstractionist
+
+** variation and structure (and maybe sociolx?)
+   what kind of structure is there?  (chodroff, tanner, my LCN paper)
+
+* Schedule
+
+** 2020-09-01 Organizational meeting
+** 2020-09-08 NO CLASS?
+** 2020-09-15 What and why
+** 2020-09-22 Speech perception
+** 2020-09-29 Spoken word recognition
+** 2020-10-06 Sentence processing
+** 2020-10-13 Production
+** 2020-10-20 Pragmatics/discourse
+** 2020-10-27 Sociolx
+** 2020-11-03 Bayesian theories
+** 2020-11-10 Information theory
+** 2020-11-17 Noisy channel models
+** 2020-11-24 Learning and adaptation
+** 2020-12-01 Talker specificity
+** 2020-12-08 (Final presentations)
+
 * topics/theme
   I think the overall theme is going to be variability vs. structure.  How much
   do these affect processing?  How are they each represented?  What are the
@@ -87,23 +127,9 @@
 
 ** role of context
    
-* Schedule
-
-** 2020-09-01
-** 2020-09-08 NO CLASS
-** 2020-09-15
-** 2020-09-22
-** 2020-09-29
-** 2020-10-06
-** 2020-10-13
-** 2020-10-20
-** 2020-10-27
-** 2020-11-03
-** 2020-11-10
-** 2020-11-17
-** 2020-11-24
-** 2020-12-01
-** 2020-12-08
+** is speech/language special?
+   to what extent can speech processing be explained by general auditory
+   mechanisms?
 
 * other classes
   
