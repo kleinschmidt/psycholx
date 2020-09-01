@@ -1,0 +1,88 @@
+#+OPTIONS: toc:nil
+
+*Psycholinguistics* 16:830:602
+
+*Instructor:* Dr. Dave Kleinschmidt
+
+*Meeting time:* Mondays 12:30-3:30pm Eastern Time
+
+What can we learn about language by looking at linguistic behavior?  This course
+will provide a tour of some of the foundational and current topics in the field
+of /psyholinguistics/, the psychological study of the structure, processing, and
+use of language.
+
+* Grading and assessment
+ 
+** Participation - 30%
+   Our class time is limited and precious and I expect everyone to show up
+   prepared and ready to discuss the readings.  The class will be /mostly
+   discussion/ with a small amount of lecturing to provide context for the
+   readings where necessary.  If for some reason you cannot make a class
+   meeting, let me know as soon as possible so some kind of alternative
+   arrangement can be made that week.
+
+** Weekly reflections on the readings - 20%
+   24 hours before each class, turn in to Canvas a /short reflection paper/ on
+   the weeks readings.  This should be about 250-500 words (~1 page) and can be
+   about any topic as long as it's related to and refers to the reading.
+
+   Good jumping off points for these reflections include but are not limited to:
+   - How do these papers relate to your own research?
+   - How do these papers relate to themes and questions in your area?
+   - How do these papers relate to each other?  Where do they agree, and
+     where are they in conflict?
+   - If these papers disagree, how and why?  Is it about interpretation of
+     empirical evidence, or something deeper?
+   - How would you follow up on the work discussed in these papers? 
+     Describe *one* follow-up experiment and why it would shed additional
+     light on the questions that are raised in the readings.
+   
+** Final project - 50%
+   The primary assessment in this course will be a final group project with an
+   individual write-up.  The goal of the project is to give you a taste for
+   working experimentally with linguistic behavior in some form.  You and your
+   group can propose to replicate an existing experiment or design your own.
+   There will be three components: a project proposal (group), data collection
+   and analysis (group, assisted by me), final presentation (group), and
+   write-up (CogSci format, individual).
+
+   Details and deadlines will be announced later.
+
+* Preliminary Schedule and Topics
+  I'll post the readings on Canvas (at least) a week before class meetings.
+
+** 2020-09-01 Organizational meeting
+** 2020-09-08 What and why
+*** Reading
+    Hauser, M. D., Chomsky, N., & Fitch, W. T. (2002). The faculty of language:
+    What is it, who has it, and how did it evolve? Science, 298(5598),
+    1569–1579. https://doi.org/10.1126/science.298.5598.1569
+
+    Hockett, C. F. (1960). The Origin of Speech. Scientific American, 203,
+    88–111. https://doi.org/10.1038/scientificamerican0960-88
+
+    Miller, G. A. (1990). The Place of Language in a Scientific
+    Psychology. Psychological Science, 1(1),
+    7–14. https://doi.org/10.1111/j.1467-9280.1990.tb00059.x
+
+    Miller, G. A. (2003). The cognitive revolution: A historical
+    perspective. Trends in Cognitive Sciences, 7(3),
+    141–144. https://doi.org/10.1016/S1364-6613(03)00029-9
+
+    Seidenberg, M. S. (1997). Language Acquisition and Use: Learning and
+    Applying Probabilistic Constraints. Science, 275(5306),
+    1599–1603. https://doi.org/10.1126/science.275.5306.1599
+
+** 2020-09-14 Speech perception
+** 2020-09-21 Spoken word recognition 
+** 2020-09-28 Sentence processing 
+** 2020-10-05 Production 
+** 2020-10-12 Pragmatics/discourse 
+** 2020-10-19 Sociolx 
+** 2020-10-26 Bayesian theories
+** 2020-11-02 Learning and adaptation
+** 2020-11-09 Talker specificity
+** 2020-11-16 Information theory 
+** 2020-11-23 Noisy channel models 
+** 2020-11-30 TBD
+** 2020-12-07 (Final presentations)

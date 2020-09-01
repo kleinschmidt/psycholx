@@ -32,7 +32,7 @@
    speech errors, sentence production too?
 
 ** pragmatics/discourse
-   RSA vs. traditional models?
+   RSA vs. traditional models?  or even more basic...
 
 ** sociolx
    "three waves" of sociolx; 
@@ -60,22 +60,22 @@
 ** variation and structure (and maybe sociolx?)
    what kind of structure is there?  (chodroff, tanner, my LCN paper)
 
-* Schedule
+* Preliminary schedule
 
 ** 2020-09-01 Organizational meeting
-** 2020-09-08 NO CLASS?
-** 2020-09-15 What and why
-** 2020-09-22 Speech perception
-** 2020-09-29 Spoken word recognition
-** 2020-10-06 Sentence processing
-** 2020-10-13 Production
-** 2020-10-20 Pragmatics/discourse
-** 2020-10-27 Sociolx
-** 2020-11-03 Bayesian theories
-** 2020-11-10 Information theory
-** 2020-11-17 Noisy channel models
-** 2020-11-24 Learning and adaptation
-** 2020-12-01 Talker specificity
+** 2020-09-08 What and why
+** 2020-09-15 Speech perception
+** 2020-09-22 Spoken word recognition 
+** 2020-09-29 Sentence processing 
+** 2020-10-06 Production 
+** 2020-10-13 Pragmatics/discourse 
+** 2020-10-20 Sociolx 
+** 2020-10-27 Learning and adaptation 
+** 2020-11-03 Talker specificity 
+** 2020-11-10 Bayesian theories 
+** 2020-11-17 Information theory 
+** 2020-11-24 Noisy channel models 
+** 2020-12-01 TBD
 ** 2020-12-08 (Final presentations)
 
 * topics/theme
@@ -251,3 +251,21 @@
    could do like an advanced version of this?
 ** my own quals
    psycholx section has some foundational stuff too...
+
+* meetings 
+
+** week 1 - organizational
+
+*** Agenda
+    Scheduling
+
+    Syllabus
+
+    Work and grading
+
+    Final project
+
+    Topics
+
+*** Tuesday 12:30
+    Meet next week?
