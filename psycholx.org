@@ -269,3 +269,33 @@
 
 *** Tuesday 12:30
     Meet next week?
+
+** week 2 - what/why
+   
+*** Planning
+    
+**** Questions for discussion
+     Does the performance/competence distinction still matter?  What role did it
+     play in the historical development of psychology/cognitive science?
+
+     How important is communication in understanding language?  Is language
+     "for" communication, or something else?
+
+     Can language /behavior/ tell us anything about linguistic /knowledge/?
+     Conversely, is it possible to study language /without/ studying linguistic
+     behavior?
+
+     Why might language as Chomsky saw it be a challenge for behaviorism?
+
+     How does the idea of innate linguistic knowledge ("universal grammar") fit
+     with our current understanding?  What role does it play in current thinking
+     in the field of formal/Chomskian linguistics?  What about
+     psycholinguistics?
+
+     Many of these papers make a contrast (explicitly or implicitly) between
+     /statistical/ models and /grammatical/ models of linguistic knowledge.  Are
+     these really in opposition?  Why or why not?
+
+**** Introductory topics
+     History of modern cognitive science/psychology; behaviorism and the
+     cognitive revolution; the advent of connectionism
