@@ -296,6 +296,17 @@
      /statistical/ models and /grammatical/ models of linguistic knowledge.  Are
      these really in opposition?  Why or why not?
 
+     Psychology and cognitive science have gone through a number of periods
+     where different conceptions of what a good theory reigned.  What's the
+     current paradigm in your area?  How is this period going to look in the
+     light of history?
+
 **** Introductory topics
      History of modern cognitive science/psychology; behaviorism and the
      cognitive revolution; the advent of connectionism
+
+     "Scruffies and neats": "Roger Schank actually notes that he originally made
+     this distinction in linguistics, related to Chomskian vs. non-Chomskian,
+     but discovered it works in AI too, and other areas. " [[https://en.wikipedia.org/wiki/Neats_and_scruffies][(wiki)]]
+
+     Marr's levels of analysis?
