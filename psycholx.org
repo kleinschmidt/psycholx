@@ -310,3 +310,27 @@
      but discovered it works in AI too, and other areas. " [[https://en.wikipedia.org/wiki/Neats_and_scruffies][(wiki)]]
 
      Marr's levels of analysis?
+
+     Language /structure/ vs. language /content/; grammar vs. statistics
+
+     Basics of linguistics: performance vs. competence
+     
+**** what's the plan
+     the idea for this week is to situate psycholinguistics in the broader
+     context of the field of psychology, and linguistics (and cognitive science,
+     more broadly).
+
+     So we read papers that try to give a concise overview of (some of) the
+     history of cognitive science and the role of language in that (Miller), and
+     some foundational issues in what we mean when we talk about language
+     (communication, Hockett; grammar, HCF; statistical knowledge, Seidenberg)
+
+     There's also this narrative that Chomsky is single-handedly responsible for
+     dismantling the dominant behaviorist paradigm in his review of Skinner's
+     /Verbal Behavior/; the Miller papers place that in a slightly broader
+     context as well, as one part of the cognitive revolution in psychology
+     which was well underway by the time Chomsky was writing that.
+
+**** yea but what are we going to DO during class
+     discuss readings ... use them as jumping off point to talk about bigger
+     issues (see questions above)
