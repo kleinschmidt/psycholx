@@ -302,8 +302,6 @@
      light of history?
 
 **** Introductory topics
-     History of modern cognitive science/psychology; behaviorism and the
-     cognitive revolution; the advent of connectionism
 
      "Scruffies and neats": "Roger Schank actually notes that he originally made
      this distinction in linguistics, related to Chomskian vs. non-Chomskian,
@@ -313,7 +311,31 @@
 
      Language /structure/ vs. language /content/; grammar vs. statistics
 
+     pendulum swings: stastical/surface vs. structural/deep
+
      Basics of linguistics: performance vs. competence
+
+     
+***** history
+      History of modern cognitive science/psychology; behaviorism and the
+      cognitive revolution; the advent of connectionism
+
+      evolution of the idea of /universal grammar/: from very specific
+      structural knowledge to...recursion
+
+      degree of interest in (different kinds of) behavior
+      
+***** themes
+      Draw your attention a a couple of high-level topics and themes that tie
+      these papers together.
+
+      1. What language is /for/: communication, representation, something else?
+         (Related to the evolutionary origins of language and the nature of
+         linguistic knowledge)
+      2. Linguistic /knowledge/ vs. linguistic /behavior/ (competence
+         vs. performance)
+      3. The role of statistical/probabilistic information in language
+         processing and in linguistic knowledge (is the grammar probabilistic?)
      
 **** what's the plan
      the idea for this week is to situate psycholinguistics in the broader
@@ -334,3 +356,10 @@
 **** yea but what are we going to DO during class
      discuss readings ... use them as jumping off point to talk about bigger
      issues (see questions above)
+
+**** order to topics
+
+***** Miller (history)
+
+***** Hockett; HCF; Seidenberg
+      
