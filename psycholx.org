@@ -61,23 +61,21 @@
    what kind of structure is there?  (chodroff, tanner, my LCN paper)
 
 * Preliminary schedule
-
 ** 2020-09-01 Organizational meeting
-** 2020-09-08 What and why
-** 2020-09-15 Speech perception
-** 2020-09-22 Spoken word recognition 
-** 2020-09-29 Sentence processing 
-** 2020-10-06 Production 
-** 2020-10-13 Pragmatics/discourse 
-** 2020-10-20 Sociolx 
-** 2020-10-27 Learning and adaptation 
-** 2020-11-03 Talker specificity 
-** 2020-11-10 Bayesian theories 
-** 2020-11-17 Information theory 
-** 2020-11-24 Noisy channel models 
-** 2020-12-01 TBD
+** 2020-09-10 What and why
+** 2020-09-17 Speech perception
+** 2020-09-24 Spoken word recognition 
+** 2020-10-01 Sentence processing 
+** 2020-10-08 Production 
+** 2020-10-15 Pragmatics/discourse 
+** 2020-10-22 Sociolx 
+** 2020-10-29 Learning and adaptation 
+** 2020-11-05 Talker specificity 
+** 2020-11-12 Bayesian theories 
+** 2020-11-19 Information theory 
+** 2020-11-27 NO CLASS (thanksgiving)
+** 2020-12-01 Noisy channel models 
 ** 2020-12-08 (Final presentations)
-
 * topics/theme
   I think the overall theme is going to be variability vs. structure.  How much
   do these affect processing?  How are they each represented?  What are the

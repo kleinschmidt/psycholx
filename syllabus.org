@@ -52,7 +52,7 @@ use of language.
   I'll post the readings on Canvas (at least) a week before class meetings.
 
 ** 2020-09-01 Organizational meeting
-** 2020-09-08 What and why
+** 2020-09-10 What and why
 *** Reading
     Hauser, M. D., Chomsky, N., & Fitch, W. T. (2002). The faculty of language:
     What is it, who has it, and how did it evolve? Science, 298(5598),
@@ -73,16 +73,26 @@ use of language.
     Applying Probabilistic Constraints. Science, 275(5306),
     1599–1603. https://doi.org/10.1126/science.275.5306.1599
 
-** 2020-09-14 Speech perception
-** 2020-09-21 Spoken word recognition 
-** 2020-09-28 Sentence processing 
-** 2020-10-05 Production 
-** 2020-10-12 Pragmatics/discourse 
-** 2020-10-19 Sociolx 
-** 2020-10-26 Bayesian theories
-** 2020-11-02 Learning and adaptation
-** 2020-11-09 Talker specificity
-** 2020-11-16 Information theory 
-** 2020-11-23 Noisy channel models 
-** 2020-11-30 TBD
-** 2020-12-07 (Final presentations)
+** 2020-09-17 Speech perception
+*** Reading
+    Pisoni, D. B., & Levi, S. V. (2007). Representations and representational
+    specificity in speech perception and spoken word recognition. In
+    M. G. Gaskell (Ed.), /The Oxford handbook of psycholinguistics/
+    (pp. 3–18). Oxford University Press.
+
+    Gaskell, M. G. (2007). Statistical and connectionist models of speech
+    perception and word recognition. In M. G. Gaskell (Ed.), /The Oxford
+    Handbook of Psycholinguistics/ (pp. 55–69). Oxford University Press.
+    
+** 2020-09-24 Spoken word recognition 
+** 2020-10-01 Sentence processing 
+** 2020-10-08 Production 
+** 2020-10-15 Pragmatics/discourse 
+** 2020-10-22 Sociolx 
+** 2020-10-29 Learning and adaptation 
+** 2020-11-05 Talker specificity 
+** 2020-11-12 Bayesian theories 
+** 2020-11-19 Information theory 
+** 2020-11-27 NO CLASS (thanksgiving)
+** 2020-12-01 Noisy channel models 
+** 2020-12-08 (Final presentations)
