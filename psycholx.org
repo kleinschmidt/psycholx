@@ -252,7 +252,7 @@
 
 * meetings 
 
-** week 1 - organizational
+** week 0 - organizational
 
 *** Agenda
     Scheduling
@@ -268,7 +268,7 @@
 *** Tuesday 12:30
     Meet next week?
 
-** week 2 - what/why
+** week 1 - what/why
    
 *** Planning
     
@@ -360,4 +360,5 @@
 ***** Miller (history)
 
 ***** Hockett; HCF; Seidenberg
-      
+
+** week 2 - speech
