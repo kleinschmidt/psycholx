@@ -362,3 +362,115 @@
 ***** Hockett; HCF; Seidenberg
 
 ** week 2 - speech
+   
+*** Readings
+    handbook chapters: Gaskell plus Pisoni & Levi.
+
+**** Pisoni and Levi
+     Argue that encode BOTH abstractions AND details of specific instances
+
+     3 basic assumptions of "traditional approaches":
+
+     1. set of discrete and linear symbols to represent continuous speech
+     2. symbols are "abstract, static, invariant, and context-free"
+     3. psychological processes "normalize" acoustic differences
+
+     Problems with the traditional view: non-linearity of the acoustic signal
+     (coarticulation/smearing); lack of (acoustic-phonetic) invariance;
+     segmentation is hard.  Many of these spring from a *bottom-up* approach to
+     speech recognition (sounds → phonemes → words).
+     
+***** Evidence for specificity in speech encoding
+      Mullennix et al. (1989): intelligibility lower and repetition slower in
+      multi-talker lists
+
+      Mullenix & Pisoni (1990): attend to words slowed by voice variabiltiy, and
+      vice-versa (but easier to ignore word variability than voice)
+
+      Specific voice details encoded in recognition memory (even with lots of
+      talkers), up to a week
+
+      Speaking rate variation affects identification, but not amplitude.
+
+      Speaking rate variation also affect recall memory (primacy)
+
+      Nygaard et al. (1994): novel word recognition easier for familiar voices
+      than unfamiliar
+
+      Allen and Miller (2004): speaker-specific VOT dists, generalize to unheard
+      words.
+
+***** 
+
+**** Gaskell
+     Some confusion about the different models, that's understandable.
+      
+
+*** Questions for discussion
+    
+**** What makes a representation "abstract"? 
+     see Sten's response paper...also Huteng.  Is "abstract" vs. "episodic"
+     really the best way to think about the tradeoff here?
+
+     also Joselyn: talking about degree of abstractness in layers in TRACE.
+
+**** What Marr level do exemplar/episodic theories target?
+
+**** Tradeoff between number/granularity of representations and processing
+     Normalization/compensation for context is necessary to reach something like
+     an abstract, context-free symbolic representation.  Exemplar models avoid
+     this by just storing enough relevant context to make normalization
+     un-necessary, but this massively increases the amount of possible
+     representations in your system...
+
+     what's the benefit/cost of each approach?
+
+**** why did it take so long?
+     most of the ref's in the Pisoni & Levi chapter about the problems for the
+     "traditional view" are from the *1950s*!!
+ 
+**** exemplar models and "coupling between ... prior experiences" and current processing
+     
+**** what is the evidence for exemplars?
+
+**** what is the evidence for abstractions?
+
+**** what's noise and what's signal
+     from Joseph's paper: each extra source of variation makes local
+     interpretation more difficult, but maybe together they make GLOBAL
+     interpretation easier?
+     
+*** Material for context
+    
+**** categorical perception
+     
+**** "lack of invariance"
+     coarticulation and talker variabiltiy are two big ones
+**** Different types of models
+
+***** "Traditional" (abstractionist) models
+      have something like a "template" for each phoneme/allophone in your
+      language.  compare the speech stream to these templates to get
+      phonemes/allophones, then that is input into symbolic processing in the
+      phonological grammar.
+
+***** IAC
+      TRACE as an example
+
+***** distributed connectionist models
+      not really clear on these here...I guess this is the DCM, which uses an
+      SRN to take in phonetic features and output "a distributed representation
+      of lexical content"
+
+***** statistical models
+      I think they're talking about like n-gram models here.
+
+***** exemplar models
+      episodic version: store detailed, un-analyzed acoustic traces in memory
+      (think: raw spectrogram).  phonolgical representations emerge from
+      similarity-based retrieval.
+
+**** relations between model families
+     "connectionist models" are a big tent: include "localist" models like
+     TRACE, "distributed" models like DCM
+
