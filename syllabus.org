@@ -85,6 +85,14 @@ use of language.
     Handbook of Psycholinguistics/ (pp. 55–69). Oxford University Press.
     
 ** 2020-09-24 Spoken word recognition 
+   Marslen-Wilson, W. (1989). Access and Integration: Projecting Sound onto
+   Meaning. In W. Marslen-Wilson (Ed.), Lexical Representation and
+   Processing. MIT Press.
+
+   McQueen, J. M. (2007). Eight questions about spoken-word recognition. In The
+   Oxford handbook of psycholinguistics (pp. 37–53). Oxford University Press,
+   USA.
+
 ** 2020-10-01 Sentence processing 
 ** 2020-10-08 Production 
 ** 2020-10-15 Pragmatics/discourse 
