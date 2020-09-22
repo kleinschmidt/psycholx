@@ -474,3 +474,69 @@
      "connectionist models" are a big tent: include "localist" models like
      TRACE, "distributed" models like DCM
 
+** Week 3 - lexical access
+   
+*** Readings
+
+**** Marslen-Wilson 1989
+     Lexicon links *form* and *content*, two kinds of processing, "access" and
+     "integration"
+     
+     Interpretation is continuous and immediate
+
+     What's the relationship between form and content based processing?  Early
+     selection in context (before form is enough) suggests that selections
+     guided by content too
+
+     This is *fast* so it has to be happening in parallel (both access and
+     "assessment", comparison to contextual constraints)
+
+     (cohort model: how is this different from e.g. TRACE?  one big one: no
+     mutual inhibition between active words)
+
+     /contingency of perceptual choice/ in the cohort model: "outcome and timing
+     of the selection process are determined by the properties of the /complete
+     ensemble/ of perceptual possibilities open to the listener".  (selection
+     happens when you have a winner, which depends on who else is playing)
+
+     "Cues to any individual phonetic segment are distributed over time, and, in
+     particular, they overlap with cues to adjacent segments" (p. 9)
+
+     gating task: 25ms gates...free response.  place of articulation AND final
+     stop voicing (vowel duration) both show continuous access.
+
+     directionality: initial mismatch rules out items?  compare cross-model
+     priming for cohort overlap (ambig, presented mid word, vs. end of word, when
+     it's not ambiguous), and rhyme overlap work/nonword (complete).  Find no
+     priming for rhyme overlap, despite similar amounts of overlapping material
+     as with onset (but I think TRACE et al. can still explain this?)
+
+     parallel activation of semantic content: cross-modal form based priming
+     ([kapit] primes "boot" (boat) and "geld" (money))
+
+     what's the role of context?  pre-selection?  argues against this: effects
+     of context in a cross-modal priming task only show up once you reach the
+     uniqueness point of the prime word, even in highly-constraining contexts.
+
+     there's a puzzle here though: in an actual gating task with the same
+     stimuli, you can identify the final word much earlier than the point at
+     which cross-modal priming effects seem to kick in.  argues that priming is
+     basically a lexical effect, whereas the integration is happening..somewhere
+     else?  hard to say.
+     
+     overall comes down on the side of lexical access being a *Fodorian input
+     system* (primacy of the bottom-up input).
+     
+*** Questions
+    If content/context influences form-based selection in lexical access, how
+    could the models we discussed last week account for that?  What kind of
+    predictions would that make?
+
+    Integration vs. prediction ("true" top-down vs. "only integration"
+    effects)...how can you tell them apart?  What are the readings suggesting
+    about that?
+
+    Let's look critically at the assertion from Marslen-Wilson that the
+    bottom-up signal has primacy in lexical access in light of the more recent
+    findings summarized by McQueen (coarticulation, assimilation, use of
+    phonological knowledge, context effects)
