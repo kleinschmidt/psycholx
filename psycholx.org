@@ -526,7 +526,41 @@
      
      overall comes down on the side of lexical access being a *Fodorian input
      system* (primacy of the bottom-up input).
+
+**** McQueen 2007
      
+     
+**** Comparison
+     MW focuses mostly on the bottom-up information...primacy of the signal.
+
+     One point of contrast is that there's a lot more nuance in the McQueen
+     summary when it comes to *mismatch*: MW basically just says if there's a
+     mismatch then that's bad (does he?  does he also talk about sub-categorical
+     mismatch?)
+     
+     Evidence that rhyme-overlap are also considered discussed in McQueen
+     (p. 42).
+
+*** Learning goals for this week     
+    We're starting to approach how context across different levels of linguistic
+    processing might affect speech recognition.
+
+    Identify the methodologies that are used to investigate lexical access in
+    these papers (cross-modal priming, gating, word identification)
+    
+    Be able to explain how we know that word forms and meanings are activated in
+    /parallel/ during lexical access.
+
+    Think about the role of top-down processing in lexical access.  Does it play
+    any role?  What is the role?  What sort of information is involved in
+    top-down lexical access?
+
+    How has our understanding of lexical access evolved between the two
+    readings?  (More detailed understanding of what information matters and how
+    much, rather than just match/mismatch; expanded scope of study to
+    segmentation and suprasegmental cues like stress)  What hasn't changed?
+    ("primacy of the signal")
+    
 *** Questions
     If content/context influences form-based selection in lexical access, how
     could the models we discussed last week account for that?  What kind of
@@ -540,3 +574,9 @@
     bottom-up signal has primacy in lexical access in light of the more recent
     findings summarized by McQueen (coarticulation, assimilation, use of
     phonological knowledge, context effects)
+
+    Are any of these effects /incompatible/ with an exemplar model?  Are any of
+    them easier/more natural to explain with an exemplar model than a
+    "abstractionist" model where lexical access is mediated by sublexical
+    representations?  (Maybe the suprasegmental stuff, like the "'ham' in
+    'hamster'" effect...)
