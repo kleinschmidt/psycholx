@@ -541,27 +541,29 @@
      Evidence that rhyme-overlap are also considered discussed in McQueen
      (p. 42).
 
-*** Learning goals for this week     
-    We're starting to approach how context across different levels of linguistic
-    processing might affect speech recognition.
+*** things from response papers
+**** Ryne
+     what's the relation with these papers and the "traditional" level from
+     papers last week?  Seems like these authors are both taking the traditional
+     view...
 
-    Identify the methodologies that are used to investigate lexical access in
-    these papers (cross-modal priming, gating, word identification)
-    
-    Be able to explain how we know that word forms and meanings are activated in
-    /parallel/ during lexical access.
+     recognition point vs. uniqueness point
 
-    Think about the role of top-down processing in lexical access.  Does it play
-    any role?  What is the role?  What sort of information is involved in
-    top-down lexical access?
+**** Huteng
+     Doesn't cite any phonologists...
 
-    How has our understanding of lexical access evolved between the two
-    readings?  (More detailed understanding of what information matters and how
-    much, rather than just match/mismatch; expanded scope of study to
-    segmentation and suprasegmental cues like stress)  What hasn't changed?
-    ("primacy of the signal")
-    
+     What is the cohort model, really?  What is the gating technique?
+
+**** Yarkin
+     segmental vs. suprasegmental information...can they really be separated?
+
+**** Joseph
+     relate these to predictive models like GPT and SRN...(to me, interesting
+     question is how much and what kind of context are involved in capturing the
+     predictions people seem to be making?)
+
 *** Questions
+
     If content/context influences form-based selection in lexical access, how
     could the models we discussed last week account for that?  What kind of
     predictions would that make?
@@ -575,8 +577,97 @@
     findings summarized by McQueen (coarticulation, assimilation, use of
     phonological knowledge, context effects)
 
+    What about the claim of directionality?  What's the evidence for this?  Are
+    there alternative explanations for these findings?
+
     Are any of these effects /incompatible/ with an exemplar model?  Are any of
     them easier/more natural to explain with an exemplar model than a
     "abstractionist" model where lexical access is mediated by sublexical
     representations?  (Maybe the suprasegmental stuff, like the "'ham' in
     'hamster'" effect...)
+
+*** Learning goals for this week     
+    Identify the methodologies that are used to investigate lexical access in
+    these papers (cross-modal priming, gating, word identification)
+
+    Think about the relationship between the *cognitive processes and
+    representations* as distinct from the *methods* we use to probe them (e.g.,
+    word identification shows early use of context information, but cross-model
+    priming does not).
+    
+    Be able to explain how we know that word forms and meanings are activated in
+    /parallel/ during lexical access.
+
+    Think about the role of top-down processing in lexical access.  Does it play
+    any role?  What is the role?  What sort of information is involved in
+    top-down lexical access?
+
+    (related to above) We're starting to approach how context across different
+    levels of linguistic processing might affect speech recognition.  Based on
+    these readings, what is the role that context can and cannot play in lexical
+    access?
+
+    How has our understanding of lexical access evolved between the two
+    readings?  (More detailed understanding of what information matters and how
+    much, rather than just match/mismatch; expanded scope of study to
+    segmentation and suprasegmental cues like stress)  What hasn't changed?
+    ("primacy of the signal")
+    
+*** Plan for class
+    Want to do a bit more structured stuff...like having pairs come up with
+    answers to basic content questions, put them in a shared google doc, and
+    then report back to the whole class.
+    
+**** themes
+     interaction between bottom-up and top-down information.  
+
+     continuous and probabilistic access and integration.
+
+     lexical access sensitive to many many sources of information.
+
+**** activities
+***** methods (15 minutes)
+      make a list of the main methods discussed in these readings.  
+
+***** what's the evidence for parallel activation of word FORMs and MEANINGs (30 minutes)
+      Form: priming to onset matches; disruption of lexical access when a changed
+      segment makes another word but not (or less so) for a nonword.  fast access
+      (close shadowing)
+
+      recognition point (based on neighbors); early entry; recognize similar
+      sounding words based on onsets
+
+      Meaning: cross-model priming of onset matches.  involvement of context in
+      identification before uniqueness point.
+     
+***** what role does top-down processing play in lexical access? (60 minutes?)
+      Are there limits?  What is the evidence?
+
+      My take: MW argues it plays a /limited role/: shows up in /integration/
+      processes but not in activation/access/selection.  Evidence for this is:
+      recognition before uniqueness point, but limited because you don't get
+      context-specific priming /until uniqueness point/ (context-inconsistent
+      but form-consistent words are still considered)  (questions about
+      "activatoin" and "spreading activation" metaphor here)
+
+      questions (Ryne and Yarkin): what counts as "top-down"
+
+      Sten and Elif: what is lexical access here? (bug example).  WHYYY woudl
+      you activate the other meanings if you can rule them out???  (uncertainty
+      about segmentation?  uncertainty about context?)
+
+      phonemic restoration?
+
+***** representations: gradient/categorical
+      compatible with exemplar models?  with "traditional view"?  with
+      connectionist models like TRACE?
+
+      think especially about the findings reviewed in McQueen: importance of
+      suprasegmental cues, coarticulation, gradedness.
+
+      McQueen starts by just assuming that lexical access is mediated by some
+      kind of sub-lexical categorical representations...how consistent is that
+      with the results he reviews?
+
+**** Groups from class
+     Prompt 1: Huteng, Joselyn, Joseph; Ryne, Yarkin; Elif, Sten
