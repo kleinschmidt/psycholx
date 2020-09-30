@@ -673,3 +673,111 @@ with the results he reviews?
 **** Groups from class
 Prompt 1: Huteng, Joselyn, Joseph; Ryne, Yarkin; Elif, Sten
 
+*** Class 4 - sentence processing
+    
+**** Readings
+
+***** Tanenhaus and Trueswell
+Contrast is between /constraint based/ vs. /informationally encapsulated/
+(modular) theories.
+
+****** History
+general arc: language as product (sentence as a linguistic entity) to language
+as action (situated in discourse context, produced and interpreted online and
+continuously)
+
+Miller - deep structure + transformation tags stored in memory.
+
+****** Current issues
+
+******* Syntactic category ambiguity
+multiple access - different senses are activated even in constraining contexts
+(but sentence context only weakly constraining), rapidly resolved based on
+semantic and syntactic context.  /contingent frequencies/
+
+******* Attachment ambiguity
+three families of theories: garden path, referential, and constraint-based.
+
+garden path: Minimal Attachment (simplest possible parse) and Late Closure
+(prefer to attach to recent material if equally simple parse)
+
+Referential theories: multiple parses in parallel, selected based on /pragmatic
+fit/ with discourse model.  "weakly interactive" (disdcourse model doesn't
+affect the generation of parses, but does influence initial selection).  what
+/presuppositions/ are required to resolve referring expressions?  syntactic and
+presuppositional complexity oftren related (in null context: "the pupil spotted"
+read as RC requires presupposing a SET of pupiles, as MV only one)
+
+Constraint-based: underspecified (besides "context/frequency matters"),
+frequency hard to compute given lack of large corpora.  lexicalist theories
+change that: donate example.  explain reduced relative ambiguity via various
+lexical ambiguities (argument structure; tense; voice).  "The horse raced past
+the barn fell" vs. "The landmine buried in the sand exploded" (race/bury
+frequency in passive/participle/intransitive, agent-ness of horse/landmine)
+
+******** Evidence
+disambiguating region: hgiher reading times (first and second pass)
+
+verb-specific syntactic frames ("After the child visited/sneezed the doctor
+prescribed...") - rapid filtering of initial parse or constraint based...effects
+of frequency (base rate of structure vs. verb-specific bias)
+
+thematic fit/argument assignment: animacy of subject doesn't affect initial
+attachment...but they do in more constraining contexts (etc.); and thematic
+effects for reduced relatives (stronger for verbs common in passive participle)
+
+referential context: does impact parsing but doesnt' determine it...depends on
+sentence local factors that determine the availability of the syntactic
+alternatives
+
+prosody and intonation: it matters (phrase boundaries)
+
+******* empty categories
+Filler-gap dependencies.  Why?  Because syntactic theories care about them, and
+different syntactic theories differ in how they handle them.  Also about
+coordinating different kinds of information (for the less ling-y crowd).
+
+Early proposal: filler held in memory until gap is encountered (ERP evidence and
+concurrent memory task).  Strong bias to fill first gap that can.
+
+Similar debate: do lexical factors or purely category based factors matter when
+determining whether gap filling candidate is good?
+
+Gaps (empty categories) appear to prime like pronouns do (maybe even at the
+point the verb is encountered)
+
+******* sentence memory
+evidence that there's no verbatim memory even for recent material, "reconstructed
+out of lexical representations and their argument structures"
+
+but...priming.
+
+******* context and anaphora
+not a separate stage where context-independent meaning is
+computed/extracted... rather interpretation happens in the context of a
+discourse model shaped by context and continuously updated as new material comes
+in.
+
+lots of different linguistics forms taken by anaphors (referring expressions).
+
+"deep" vs. "surface" anaphors (Sag and Hankamer) - hypothesis was that surface
+is /linguistic/ representation vs. /conceptual or discourse/ for deep.  (surface
+places form constraints, requires linguistically specified antecedent).  but not
+much experimental support ... conceptual reference for deep anaphor yes, but
+also for surface...
+
+
+**** Questions
+What's the advantage of a "garden path" model of online sentence processing?
+(Simple rules, informationally encapsulated; theory is more constrained so makes
+more specific predictions, vs. constraint-based theories which suffer
+underspecification)
+
+How do the three families of theories explain processing difficulty (in
+e.g. attachment ambiguity)
+
+Evidence for garden path model?  (Processing difficulty in disambiguating region,
+eye movement evidence)
+
+What is the source of difficulty in these models?  (Revision, re-ranking,
+conflicting constraints)
