@@ -766,6 +766,14 @@ places form constraints, requires linguistically specified antecedent).  but not
 much experimental support ... conceptual reference for deep anaphor yes, but
 also for surface...
 
+***** van Gompel and Pickering (2007)
+both classes are theory are alive and well 10+ years later!  Still work being
+done on "revision"
+
+thematic fit is weak (pro-modular) but discourse information is fast
+(pro-constraint).
+
+the rest I ... skipped
 
 **** Questions
 What's the advantage of a "garden path" model of online sentence processing?
@@ -781,3 +789,13 @@ eye movement evidence)
 
 What is the source of difficulty in these models?  (Revision, re-ranking,
 conflicting constraints)
+
+One thing that's interesting to me here is the different stakes for the debates
+on different sides...like whether semantics can OVERRIDE syntax, or just
+influence it quickly.  does semantics CONSTRAIN initial syntactic analysis or
+just influence it?
+
+big take away here: there's LOTS OF FACTORS that might affect processing speed
+and difficulty, and many of them do matter.  But also many of them are HIGHLY
+CORRELATED with each other.  So, what does this tell us about the nature of 1)
+language and 2) the language processing system?
