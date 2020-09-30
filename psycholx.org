@@ -799,3 +799,40 @@ big take away here: there's LOTS OF FACTORS that might affect processing speed
 and difficulty, and many of them do matter.  But also many of them are HIGHLY
 CORRELATED with each other.  So, what does this tell us about the nature of 1)
 language and 2) the language processing system?
+
+what if anything does formal linguistic theory play in our understanding of
+sentence processing?
+
+relationship between incremental processing and parallel activation and
+ambiguity...do you HAVE to have parallel consideration of multiple
+parses/words/etc. when speech comes in online?  If you don't, what kind of
+serial processing is compatible with the demands of the continuous input?  what
+kind of constraints does the basic 'design principle' of language place on the
+processing, and how far can we get just by looking at those constraints?
+
+why is there ambiguity at all?  seems like a bad design choice!
+
+(related: written vs. spoken stimuli, does that bias our understanding?)
+
+**** response papers
+
+***** Ryne
+"Kind of fun that you can add components/attachments to your model ad hoc and
+everyone’s got different models/principles with names (e.g. Fodor & Frazier
+adding Late Closure)." lolololol
+
+***** Joselyn
+"what's a sentence and why do we focus on it..."
+
+multiple languages
+
+***** Joseph
+modular/interactive - belief updating...reliability of evidence, bias-variance
+tradeoff
+
+temporal stuff, does it matter in bayesian updating? 
+
+***** Sten
+lexical vs. syntactic ambiguity resolution
+
+no bayes (but foreshadowing??)
