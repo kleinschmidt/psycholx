@@ -1,64 +1,65 @@
 #+TITLE: Grad psycholinguistics
+#+STARTUP: indent
 
 * Scheduling
 
-  whenisgood: t748bj http://whenisgood.net/ywa7dkt/results/t748bj2
-  http://whenisgood.net/ywa7dkt
+whenisgood: t748bj http://whenisgood.net/ywa7dkt/results/t748bj2
+http://whenisgood.net/ywa7dkt
 
 * structure
-  a few weeks on "foundational" stuff: speech perception, sentence processing,
-  production?, pragmatics
+a few weeks on "foundational" stuff: speech perception, sentence processing,
+production?, pragmatics
 
 ** organizational meeting
   
 ** what is language and why psycholx
   
 ** speech perception
-   categorical perception/continuous perception
+categorical perception/continuous perception
 
-   might also require introduction to the speech signal itself (for non-ling
-   folks).
+might also require introduction to the speech signal itself (for non-ling
+folks).
 
 ** spoken word recognition
    
    
 ** Sentence processing
-   garden path sentences, ambiguity, parsing
+garden path sentences, ambiguity, parsing
 
-   DLT?  classical parsing (content free) vs. lexical/constraint satisfaction
-   models (MacDonald stuff?)
+DLT?  classical parsing (content free) vs. lexical/constraint satisfaction
+models (MacDonald stuff?)
    
 ** production
-   speech errors, sentence production too?
+speech errors, sentence production too?
 
 ** pragmatics/discourse
-   RSA vs. traditional models?  or even more basic...
+RSA vs. traditional models?  or even more basic...
 
 ** sociolx
-   "three waves" of sociolx; 
+"three waves" of sociolx; 
 
 ** Info theory
-   syntax: levy/smith and levy
+syntax: levy/smith and levy
 
-   word structure (piantadosi stuff)
+word structure (piantadosi stuff)
 
 ** noisy channel models
-   how/why are these distinct from purely "bayesian"/ideal observer models?
-   thinking about the production stuff and the Ryskin paper on learning the
-   noise model...
+how/why are these distinct from purely "bayesian"/ideal observer models?
+thinking about the production stuff and the Ryskin paper on learning the
+noise model...
 
 ** learning and adaptation
-   lots of stuff here...
+lots of stuff here...
 
 ** speaker specific representations
-   I'm thinking both the long-term memory stuff in speech and the Kamide work on
-   high/low attachment preferences, maybe also informativity
+I'm thinking both the long-term memory stuff in speech and the Kamide work on
+high/low attachment preferences, maybe also informativity
 
 ** structured vs. structure free
-   examplar models vs abstractionist
+examplar models vs abstractionist
 
 ** variation and structure (and maybe sociolx?)
-   what kind of structure is there?  (chodroff, tanner, my LCN paper)
+what kind of structure is there?  (chodroff, tanner, my LCN paper)
 
 * Preliminary schedule
 ** 2020-09-01 Organizational meeting
@@ -77,27 +78,27 @@
 ** 2020-12-01 Noisy channel models 
 ** 2020-12-08 (Final presentations)
 * topics/theme
-  I think the overall theme is going to be variability vs. structure.  How much
-  do these affect processing?  How are they each represented?  What are the
-  computational demands they each pose?
+I think the overall theme is going to be variability vs. structure.  How much
+do these affect processing?  How are they each represented?  What are the
+computational demands they each pose?
 
-  Then there are the "classic" debates in psycholx: parsing wars, interactive
-  activation vs. feedforward, prediction.
+Then there are the "classic" debates in psycholx: parsing wars, interactive
+activation vs. feedforward, prediction.
 
-  The other big question is how foundational vs. "what I'm interested in now" to
-  make this.  More and more I'm leaning towards foundational (it'll correct some
-  of the things that are missing in Sten and Joselyn's preparation and probably
-  be more useful/interesting for the others...).  But putting together a reading
-  list is a little harder there I guess, so...  Maybe the first few weeks are
-  going to be "basic stuff you need to know" and the last few weeks will be
-  special topics?  I dunno.
+The other big question is how foundational vs. "what I'm interested in now" to
+make this.  More and more I'm leaning towards foundational (it'll correct some
+of the things that are missing in Sten and Joselyn's preparation and probably
+be more useful/interesting for the others...).  But putting together a reading
+list is a little harder there I guess, so...  Maybe the first few weeks are
+going to be "basic stuff you need to know" and the last few weeks will be
+special topics?  I dunno.
 
-  what's the point of this class?  what are these students going to get out of
-  it?  they're all graduate students.  not all of them are studying language,
-  but many of them are.
+what's the point of this class?  what are these students going to get out of
+it?  they're all graduate students.  not all of them are studying language,
+but many of them are.
   
 ** continuous vs. discrete  
-   e.g. categorical perception, graded grammaticality
+e.g. categorical perception, graded grammaticality
 
 ** top-down vs. bottom-up processing
 ** exemplar models
@@ -108,252 +109,252 @@
 
 ** parsing wars: structure or content?
 ** methods
-   eye tracking, corpus, psychophysics, self-paced reading, computational
-   modeling
+eye tracking, corpus, psychophysics, self-paced reading, computational
+modeling
 
-   especially interesting angle might be behavioral methods...how is language
-   processing reflected in BEHAVIOR?  what are the relevant behviors and what do
-   we know about them?  What kind of information can we hope to get from
-   language-related behavior?  What's the time/spatial/social scale at which
-   we're studying this behavior?
+especially interesting angle might be behavioral methods...how is language
+processing reflected in BEHAVIOR?  what are the relevant behviors and what do
+we know about them?  What kind of information can we hope to get from
+language-related behavior?  What's the time/spatial/social scale at which
+we're studying this behavior?
    
 ** acquisition (related to stability/plasticity?)
 
 ** what information is used when 
-   modularity vs. interaction.  perspective taking.  socio stuff.  prediction
-   vs. integration.
+modularity vs. interaction.  perspective taking.  socio stuff.  prediction
+vs. integration.
 
 ** role of context
    
 ** is speech/language special?
-   to what extent can speech processing be explained by general auditory
-   mechanisms?
+to what extent can speech processing be explained by general auditory
+mechanisms?
 
 * other classes
   
 ** BCS 501 (chigusa and mike version 2017)
-   [[https://docs.google.com/spreadsheets/d/1rQjU2_a6jeoXle8hGFT93jem8XidXOs6dUcungDXz-A/edit#gid=1386834576][Schedule and readings]] [[https://docs.google.com/spreadsheets/d/1WaMJ0N-7XvIcpCCY56_dwVd-XRVJD4nhOsgHngh4nic/][(my copy)]]
+[[https://docs.google.com/spreadsheets/d/1rQjU2_a6jeoXle8hGFT93jem8XidXOs6dUcungDXz-A/edit#gid=1386834576][Schedule and readings]] [[https://docs.google.com/spreadsheets/d/1WaMJ0N-7XvIcpCCY56_dwVd-XRVJD4nhOsgHngh4nic/][(my copy)]]
 
-   They spent first 8 classes on foundational stuff...lots of reading from the
-   oxford handbook plus some supplemental stuff.  Then 6 classes on more current
-   stuff I guess.
+They spent first 8 classes on foundational stuff...lots of reading from the
+oxford handbook plus some supplemental stuff.  Then 6 classes on more current
+stuff I guess.
 
-   It's a very "mike and chigusa" flavored set of topics...lots of spoken word
-   recognition, information structure
+It's a very "mike and chigusa" flavored set of topics...lots of spoken word
+recognition, information structure
 
-   I guess I don't necessarily need to cover exactly the same material since the
-   language people are all in my/karin's lab.  but I think some depth is going
-   to be really important.
+I guess I don't necessarily need to cover exactly the same material since the
+language people are all in my/karin's lab.  but I think some depth is going
+to be really important.
 ** BCS 501 (chigusa and mike 2015 version)
-   2x weekly, much more of a survey.
+2x weekly, much more of a survey.
 
 ** BCS 501 (Mike's lang class)
-   This was pretty basic or introductory from what I remember...or rather,
-   foundational.  There was a lot of reading.  No syllabus but I have the emails
-   with readings/topics 
+This was pretty basic or introductory from what I remember...or rather,
+foundational.  There was a lot of reading.  No syllabus but I have the emails
+with readings/topics 
 
 *** week 1
-    Chomsky, N. (l980). Rules and representations.  The Behavioral and Brain
-    Sciences, 3(1), 1-15.
+Chomsky, N. (l980). Rules and representations.  The Behavioral and Brain
+Sciences, 3(1), 1-15.
 
-    Miller, G.A. ( l965). Some preliminaries to psycholinguistics.  American
-    Psychologist, 20(1), 15-20.
+Miller, G.A. ( l965). Some preliminaries to psycholinguistics.  American
+Psychologist, 20(1), 15-20.
 
-    Miller, G.A. (l990). The place of language in a scientific psychology. In G.A.
+Miller, G.A. (l990). The place of language in a scientific psychology. In G.A.
 
-    Miller (Ed.), Psychological Science, 1(1), 7-14.
+Miller (Ed.), Psychological Science, 1(1), 7-14.
 
-    Seidenberg, M. (1997) Language acquisition and use: Learning and applying
-    probabilistic constraints.  Science, 275, 1599-1603.
+Seidenberg, M. (1997) Language acquisition and use: Learning and applying
+probabilistic constraints.  Science, 275, 1599-1603.
 
-    Hauser, M. D., Chomsky, N., &amp; Fitch, W. T. (2002). The faculty of language:
-    What is it, who has it, and how did it evolve? Science, 298, 1569-1579.
+Hauser, M. D., Chomsky, N., &amp; Fitch, W. T. (2002). The faculty of language:
+What is it, who has it, and how did it evolve? Science, 298, 1569-1579.
 
 *** week 2
 
 *** week 3? dick aslin guest lecture
-    probably something about speech...I have the slides 
+probably something about speech...I have the slides 
 
 *** (missing week)
 *** sentence processing
 
-    Frazier, L. (1987).  Sentence processing: A tutorial review.  In
-    M. Coltheart (Ed.), Attention and Performance.  Hillsdale, NJ: Lawrence
-    Erlbaum Associates.
+Frazier, L. (1987).  Sentence processing: A tutorial review.  In
+M. Coltheart (Ed.), Attention and Performance.  Hillsdale, NJ: Lawrence
+Erlbaum Associates.
 
-    Gibson, E. (2002).  Linguistic complexity in sentence processing.  In Oxford
-    Encyclopedia of Cognitive Science
+Gibson, E. (2002).  Linguistic complexity in sentence processing.  In Oxford
+Encyclopedia of Cognitive Science
 
-    Marslen-Wilson, W.  (1973).  Linguistic structure and speech shadowing at
-    very short latencies.  Nature, 244, 522-523.
+Marslen-Wilson, W.  (1973).  Linguistic structure and speech shadowing at
+very short latencies.  Nature, 244, 522-523.
 
-    Marslen-Wilson, W.  (1975).  Sentence perception as an interactive parallel
-    process.  Science, 189, 226-228.
+Marslen-Wilson, W.  (1975).  Sentence perception as an interactive parallel
+process.  Science, 189, 226-228.
 
-    Levy R. (2008) Expectation-based sentence processing.  Cognition
+Levy R. (2008) Expectation-based sentence processing.  Cognition
     
-    Tanenhaus, M.K. & Trueswell, J.C.  (1995). Sentence comprehension.  In:
-    J.L. Miller & P.D. Eimas (Eds.). Handbook of perception and cognition
-    Vol. 11: Speech, language and communication, 217-262.  San Diego, CA:
-    Academic Press.
+Tanenhaus, M.K. & Trueswell, J.C.  (1995). Sentence comprehension.  In:
+J.L. Miller & P.D. Eimas (Eds.). Handbook of perception and cognition
+Vol. 11: Speech, language and communication, 217-262.  San Diego, CA:
+Academic Press.
 
 *** sentence production
-    Griffin, Z. M. (2003). A reversed word length effect in coordinating the
-    preparation and articulation of words in speaking. Psychonomic Bulletin and
-    Review, 10(3), 603-609.
+Griffin, Z. M. (2003). A reversed word length effect in coordinating the
+preparation and articulation of words in speaking. Psychonomic Bulletin and
+Review, 10(3), 603-609.
 
-    Ferreira, V. (1996).  Is it better to give than to donate? Syntactic
-    flexibility in language production.  Journal of Memory and Language, 35, 724-755
+Ferreira, V. (1996).  Is it better to give than to donate? Syntactic
+flexibility in language production.  Journal of Memory and Language, 35, 724-755
     
-    Dell et al. (2008) Saying the right thing at the right time
+Dell et al. (2008) Saying the right thing at the right time
 
 
 *** perspective taking?
-    Wardlow Lane et al. (2006) Don't Talk about Pink Elephants!
+Wardlow Lane et al. (2006) Don't Talk about Pink Elephants!
 
-    Keysar et al. 2000 Taking Perspective in Conversation
+Keysar et al. 2000 Taking Perspective in Conversation
 *** lissa (development)
 
-    Lenneberg, E.H.  (1969).  On explaining language: The development of
-    language in children can best be understood in the context of developmental
-    biology.  Science, 164, 635-643.
+Lenneberg, E.H.  (1969).  On explaining language: The development of
+language in children can best be understood in the context of developmental
+biology.  Science, 164, 635-643.
 
-    Gleitman, L.R., & Newport, E.L. (1995).  The invention of language by
-    children: Environmental and biological influences on the acquisition of
-    language.  In L.R. Gleitman and M. Liberman (Eds.), An Invitation to
-    Cognitive Science, 2nd ed.  Vol 1: Language.  Cambridge, MA: The MIT Press.
+Gleitman, L.R., & Newport, E.L. (1995).  The invention of language by
+children: Environmental and biological influences on the acquisition of
+language.  In L.R. Gleitman and M. Liberman (Eds.), An Invitation to
+Cognitive Science, 2nd ed.  Vol 1: Language.  Cambridge, MA: The MIT Press.
 
-    Newport, E.L.  (2002).  Critical periods in language development.  In
-    L. Nadel (Ed.), Encyclopedia of Cognitive Science.  London: Macmillan
-    Publishers Ltd./Nature Publishing Group.
+Newport, E.L.  (2002).  Critical periods in language development.  In
+L. Nadel (Ed.), Encyclopedia of Cognitive Science.  London: Macmillan
+Publishers Ltd./Nature Publishing Group.
 
-    Optional: Pinker, S. & Prince, A.  (1988). On language and connectionism:
-    Analysis of a parallel distributed processing model of language acquisition.
-    Cognition, 28, 73-193.]
+Optional: Pinker, S. & Prince, A.  (1988). On language and connectionism:
+Analysis of a parallel distributed processing model of language acquisition.
+Cognition, 28, 73-193.]
 
-    Newport, E.L., & Aslin, R.N. (2000). Innately constrained learning: Blending
-    old and new approaches to language acquisition. In S. C. Howell, S. A. Fish,
-    and T. Keith-Lucas (eds.), Proceedings of the 24th Annual Boston University
-    Conference on Language Development.  Somerville, MA: Cascadilla Press.
+Newport, E.L., & Aslin, R.N. (2000). Innately constrained learning: Blending
+old and new approaches to language acquisition. In S. C. Howell, S. A. Fish,
+and T. Keith-Lucas (eds.), Proceedings of the 24th Annual Boston University
+Conference on Language Development.  Somerville, MA: Cascadilla Press.
 
-    Marcus, G., Vijayan, S., Bandi Rao, S., & Vishton,
-    P. M. (1999). Rule-learning in seven-month-old infants, Science, 283, 77-80.
+Marcus, G., Vijayan, S., Bandi Rao, S., & Vishton,
+P. M. (1999). Rule-learning in seven-month-old infants, Science, 283, 77-80.
 
-    Aslin, R.N. & Newport, E.L. (2011).  Statistical learning: From acquiring
-    specific items to forming general rules.  Current Directions in
-    Psychological Science, in press.
+Aslin, R.N. & Newport, E.L. (2011).  Statistical learning: From acquiring
+specific items to forming general rules.  Current Directions in
+Psychological Science, in press.
 *** visual world
 *** adaptation
-    (maybe this is from teh LSA institute?)
+(maybe this is from teh LSA institute?)
 ** Lang and Cog
-   could do like an advanced version of this?
+could do like an advanced version of this?
 ** my own quals
-   psycholx section has some foundational stuff too...
+psycholx section has some foundational stuff too...
 
 * meetings 
 
 ** week 0 - organizational
 
 *** Agenda
-    Scheduling
+Scheduling
 
-    Syllabus
+Syllabus
 
-    Work and grading
+Work and grading
 
-    Final project
+Final project
 
-    Topics
+Topics
 
 *** Tuesday 12:30
-    Meet next week?
+Meet next week?
 
 ** week 1 - what/why
    
 *** Planning
     
 **** Questions for discussion
-     Does the performance/competence distinction still matter?  What role did it
-     play in the historical development of psychology/cognitive science?
+Does the performance/competence distinction still matter?  What role did it
+play in the historical development of psychology/cognitive science?
 
-     How important is communication in understanding language?  Is language
-     "for" communication, or something else?
+How important is communication in understanding language?  Is language
+"for" communication, or something else?
 
-     Can language /behavior/ tell us anything about linguistic /knowledge/?
-     Conversely, is it possible to study language /without/ studying linguistic
-     behavior?
+Can language /behavior/ tell us anything about linguistic /knowledge/?
+Conversely, is it possible to study language /without/ studying linguistic
+behavior?
 
-     Why might language as Chomsky saw it be a challenge for behaviorism?
+Why might language as Chomsky saw it be a challenge for behaviorism?
 
-     How does the idea of innate linguistic knowledge ("universal grammar") fit
-     with our current understanding?  What role does it play in current thinking
-     in the field of formal/Chomskian linguistics?  What about
-     psycholinguistics?
+How does the idea of innate linguistic knowledge ("universal grammar") fit
+with our current understanding?  What role does it play in current thinking
+in the field of formal/Chomskian linguistics?  What about
+psycholinguistics?
 
-     Many of these papers make a contrast (explicitly or implicitly) between
-     /statistical/ models and /grammatical/ models of linguistic knowledge.  Are
-     these really in opposition?  Why or why not?
+Many of these papers make a contrast (explicitly or implicitly) between
+/statistical/ models and /grammatical/ models of linguistic knowledge.  Are
+these really in opposition?  Why or why not?
 
-     Psychology and cognitive science have gone through a number of periods
-     where different conceptions of what a good theory reigned.  What's the
-     current paradigm in your area?  How is this period going to look in the
-     light of history?
+Psychology and cognitive science have gone through a number of periods
+where different conceptions of what a good theory reigned.  What's the
+current paradigm in your area?  How is this period going to look in the
+light of history?
 
 **** Introductory topics
 
-     "Scruffies and neats": "Roger Schank actually notes that he originally made
-     this distinction in linguistics, related to Chomskian vs. non-Chomskian,
-     but discovered it works in AI too, and other areas. " [[https://en.wikipedia.org/wiki/Neats_and_scruffies][(wiki)]]
+"Scruffies and neats": "Roger Schank actually notes that he originally made
+this distinction in linguistics, related to Chomskian vs. non-Chomskian,
+but discovered it works in AI too, and other areas. " [[https://en.wikipedia.org/wiki/Neats_and_scruffies][(wiki)]]
 
-     Marr's levels of analysis?
+Marr's levels of analysis?
 
-     Language /structure/ vs. language /content/; grammar vs. statistics
+Language /structure/ vs. language /content/; grammar vs. statistics
 
-     pendulum swings: stastical/surface vs. structural/deep
+pendulum swings: stastical/surface vs. structural/deep
 
-     Basics of linguistics: performance vs. competence
+Basics of linguistics: performance vs. competence
 
      
 ***** history
-      History of modern cognitive science/psychology; behaviorism and the
-      cognitive revolution; the advent of connectionism
+History of modern cognitive science/psychology; behaviorism and the
+cognitive revolution; the advent of connectionism
 
-      evolution of the idea of /universal grammar/: from very specific
-      structural knowledge to...recursion
+evolution of the idea of /universal grammar/: from very specific
+structural knowledge to...recursion
 
-      degree of interest in (different kinds of) behavior
+degree of interest in (different kinds of) behavior
       
 ***** themes
-      Draw your attention a a couple of high-level topics and themes that tie
-      these papers together.
+Draw your attention a a couple of high-level topics and themes that tie
+these papers together.
 
-      1. What language is /for/: communication, representation, something else?
-         (Related to the evolutionary origins of language and the nature of
-         linguistic knowledge)
-      2. Linguistic /knowledge/ vs. linguistic /behavior/ (competence
-         vs. performance)
-      3. The role of statistical/probabilistic information in language
-         processing and in linguistic knowledge (is the grammar probabilistic?)
-     
+1. What language is /for/: communication, representation, something else?
+   (Related to the evolutionary origins of language and the nature of
+   linguistic knowledge)
+2. Linguistic /knowledge/ vs. linguistic /behavior/ (competence
+   vs. performance)
+3. The role of statistical/probabilistic information in language
+   processing and in linguistic knowledge (is the grammar probabilistic?)
+
 **** what's the plan
-     the idea for this week is to situate psycholinguistics in the broader
-     context of the field of psychology, and linguistics (and cognitive science,
-     more broadly).
+the idea for this week is to situate psycholinguistics in the broader
+context of the field of psychology, and linguistics (and cognitive science,
+more broadly).
 
-     So we read papers that try to give a concise overview of (some of) the
-     history of cognitive science and the role of language in that (Miller), and
-     some foundational issues in what we mean when we talk about language
-     (communication, Hockett; grammar, HCF; statistical knowledge, Seidenberg)
+So we read papers that try to give a concise overview of (some of) the
+history of cognitive science and the role of language in that (Miller), and
+some foundational issues in what we mean when we talk about language
+(communication, Hockett; grammar, HCF; statistical knowledge, Seidenberg)
 
-     There's also this narrative that Chomsky is single-handedly responsible for
-     dismantling the dominant behaviorist paradigm in his review of Skinner's
-     /Verbal Behavior/; the Miller papers place that in a slightly broader
-     context as well, as one part of the cognitive revolution in psychology
-     which was well underway by the time Chomsky was writing that.
+There's also this narrative that Chomsky is single-handedly responsible for
+dismantling the dominant behaviorist paradigm in his review of Skinner's
+/Verbal Behavior/; the Miller papers place that in a slightly broader
+context as well, as one part of the cognitive revolution in psychology
+which was well underway by the time Chomsky was writing that.
 
 **** yea but what are we going to DO during class
-     discuss readings ... use them as jumping off point to talk about bigger
-     issues (see questions above)
+discuss readings ... use them as jumping off point to talk about bigger
+issues (see questions above)
 
 **** order to topics
 
@@ -364,70 +365,70 @@
 ** week 2 - speech
    
 *** Readings
-    handbook chapters: Gaskell plus Pisoni & Levi.
+handbook chapters: Gaskell plus Pisoni & Levi.
 
 **** Pisoni and Levi
-     Argue that encode BOTH abstractions AND details of specific instances
+Argue that encode BOTH abstractions AND details of specific instances
 
-     3 basic assumptions of "traditional approaches":
+3 basic assumptions of "traditional approaches":
 
-     1. set of discrete and linear symbols to represent continuous speech
-     2. symbols are "abstract, static, invariant, and context-free"
-     3. psychological processes "normalize" acoustic differences
+1. set of discrete and linear symbols to represent continuous speech
+2. symbols are "abstract, static, invariant, and context-free"
+3. psychological processes "normalize" acoustic differences
 
-     Problems with the traditional view: non-linearity of the acoustic signal
-     (coarticulation/smearing); lack of (acoustic-phonetic) invariance;
-     segmentation is hard.  Many of these spring from a *bottom-up* approach to
-     speech recognition (sounds → phonemes → words).
-     
+   Problems with the traditional view: non-linearity of the acoustic signal
+   (coarticulation/smearing); lack of (acoustic-phonetic) invariance;
+   segmentation is hard.  Many of these spring from a *bottom-up* approach to
+   speech recognition (sounds → phonemes → words).
+
 ***** Evidence for specificity in speech encoding
-      Mullennix et al. (1989): intelligibility lower and repetition slower in
-      multi-talker lists
+Mullennix et al. (1989): intelligibility lower and repetition slower in
+multi-talker lists
 
-      Mullenix & Pisoni (1990): attend to words slowed by voice variabiltiy, and
-      vice-versa (but easier to ignore word variability than voice)
+Mullenix & Pisoni (1990): attend to words slowed by voice variabiltiy, and
+vice-versa (but easier to ignore word variability than voice)
 
-      Specific voice details encoded in recognition memory (even with lots of
-      talkers), up to a week
+Specific voice details encoded in recognition memory (even with lots of
+talkers), up to a week
 
-      Speaking rate variation affects identification, but not amplitude.
+Speaking rate variation affects identification, but not amplitude.
 
-      Speaking rate variation also affect recall memory (primacy)
+Speaking rate variation also affect recall memory (primacy)
 
-      Nygaard et al. (1994): novel word recognition easier for familiar voices
-      than unfamiliar
+Nygaard et al. (1994): novel word recognition easier for familiar voices
+than unfamiliar
 
-      Allen and Miller (2004): speaker-specific VOT dists, generalize to unheard
-      words.
+Allen and Miller (2004): speaker-specific VOT dists, generalize to unheard
+words.
 
 ***** 
 
 **** Gaskell
-     Some confusion about the different models, that's understandable.
+Some confusion about the different models, that's understandable.
       
 
 *** Questions for discussion
     
 **** What makes a representation "abstract"? 
-     see Sten's response paper...also Huteng.  Is "abstract" vs. "episodic"
-     really the best way to think about the tradeoff here?
+see Sten's response paper...also Huteng.  Is "abstract" vs. "episodic"
+really the best way to think about the tradeoff here?
 
-     also Joselyn: talking about degree of abstractness in layers in TRACE.
+also Joselyn: talking about degree of abstractness in layers in TRACE.
 
 **** What Marr level do exemplar/episodic theories target?
 
 **** Tradeoff between number/granularity of representations and processing
-     Normalization/compensation for context is necessary to reach something like
-     an abstract, context-free symbolic representation.  Exemplar models avoid
-     this by just storing enough relevant context to make normalization
-     un-necessary, but this massively increases the amount of possible
-     representations in your system...
+Normalization/compensation for context is necessary to reach something like
+an abstract, context-free symbolic representation.  Exemplar models avoid
+this by just storing enough relevant context to make normalization
+un-necessary, but this massively increases the amount of possible
+representations in your system...
 
-     what's the benefit/cost of each approach?
+what's the benefit/cost of each approach?
 
 **** why did it take so long?
-     most of the ref's in the Pisoni & Levi chapter about the problems for the
-     "traditional view" are from the *1950s*!!
+most of the ref's in the Pisoni & Levi chapter about the problems for the
+"traditional view" are from the *1950s*!!
  
 **** exemplar models and "coupling between ... prior experiences" and current processing
      
@@ -436,238 +437,239 @@
 **** what is the evidence for abstractions?
 
 **** what's noise and what's signal
-     from Joseph's paper: each extra source of variation makes local
-     interpretation more difficult, but maybe together they make GLOBAL
-     interpretation easier?
+from Joseph's paper: each extra source of variation makes local
+interpretation more difficult, but maybe together they make GLOBAL
+interpretation easier?
      
 *** Material for context
     
 **** categorical perception
      
 **** "lack of invariance"
-     coarticulation and talker variabiltiy are two big ones
+coarticulation and talker variabiltiy are two big ones
 **** Different types of models
 
 ***** "Traditional" (abstractionist) models
-      have something like a "template" for each phoneme/allophone in your
-      language.  compare the speech stream to these templates to get
-      phonemes/allophones, then that is input into symbolic processing in the
-      phonological grammar.
+have something like a "template" for each phoneme/allophone in your
+language.  compare the speech stream to these templates to get
+phonemes/allophones, then that is input into symbolic processing in the
+phonological grammar.
 
 ***** IAC
-      TRACE as an example
+TRACE as an example
 
 ***** distributed connectionist models
-      not really clear on these here...I guess this is the DCM, which uses an
-      SRN to take in phonetic features and output "a distributed representation
-      of lexical content"
+not really clear on these here...I guess this is the DCM, which uses an
+SRN to take in phonetic features and output "a distributed representation
+of lexical content"
 
 ***** statistical models
-      I think they're talking about like n-gram models here.
+I think they're talking about like n-gram models here.
 
 ***** exemplar models
-      episodic version: store detailed, un-analyzed acoustic traces in memory
-      (think: raw spectrogram).  phonolgical representations emerge from
-      similarity-based retrieval.
+episodic version: store detailed, un-analyzed acoustic traces in memory
+(think: raw spectrogram).  phonolgical representations emerge from
+similarity-based retrieval.
 
 **** relations between model families
-     "connectionist models" are a big tent: include "localist" models like
-     TRACE, "distributed" models like DCM
+"connectionist models" are a big tent: include "localist" models like
+TRACE, "distributed" models like DCM
 
 ** Week 3 - lexical access
    
 *** Readings
 
 **** Marslen-Wilson 1989
-     Lexicon links *form* and *content*, two kinds of processing, "access" and
-     "integration"
+Lexicon links *form* and *content*, two kinds of processing, "access" and
+"integration"
      
-     Interpretation is continuous and immediate
+Interpretation is continuous and immediate
 
-     What's the relationship between form and content based processing?  Early
-     selection in context (before form is enough) suggests that selections
-     guided by content too
+What's the relationship between form and content based processing?  Early
+selection in context (before form is enough) suggests that selections
+guided by content too
 
-     This is *fast* so it has to be happening in parallel (both access and
-     "assessment", comparison to contextual constraints)
+This is *fast* so it has to be happening in parallel (both access and
+"assessment", comparison to contextual constraints)
 
-     (cohort model: how is this different from e.g. TRACE?  one big one: no
-     mutual inhibition between active words)
+(cohort model: how is this different from e.g. TRACE?  one big one: no
+mutual inhibition between active words)
 
-     /contingency of perceptual choice/ in the cohort model: "outcome and timing
-     of the selection process are determined by the properties of the /complete
-     ensemble/ of perceptual possibilities open to the listener".  (selection
-     happens when you have a winner, which depends on who else is playing)
+/contingency of perceptual choice/ in the cohort model: "outcome and timing
+of the selection process are determined by the properties of the /complete
+ensemble/ of perceptual possibilities open to the listener".  (selection
+happens when you have a winner, which depends on who else is playing)
 
-     "Cues to any individual phonetic segment are distributed over time, and, in
-     particular, they overlap with cues to adjacent segments" (p. 9)
+"Cues to any individual phonetic segment are distributed over time, and, in
+particular, they overlap with cues to adjacent segments" (p. 9)
 
-     gating task: 25ms gates...free response.  place of articulation AND final
-     stop voicing (vowel duration) both show continuous access.
+gating task: 25ms gates...free response.  place of articulation AND final
+stop voicing (vowel duration) both show continuous access.
 
-     directionality: initial mismatch rules out items?  compare cross-model
-     priming for cohort overlap (ambig, presented mid word, vs. end of word, when
-     it's not ambiguous), and rhyme overlap work/nonword (complete).  Find no
-     priming for rhyme overlap, despite similar amounts of overlapping material
-     as with onset (but I think TRACE et al. can still explain this?)
+directionality: initial mismatch rules out items?  compare cross-model
+priming for cohort overlap (ambig, presented mid word, vs. end of word, when
+it's not ambiguous), and rhyme overlap work/nonword (complete).  Find no
+priming for rhyme overlap, despite similar amounts of overlapping material
+as with onset (but I think TRACE et al. can still explain this?)
 
-     parallel activation of semantic content: cross-modal form based priming
-     ([kapit] primes "boot" (boat) and "geld" (money))
+parallel activation of semantic content: cross-modal form based priming
+([kapit] primes "boot" (boat) and "geld" (money))
 
-     what's the role of context?  pre-selection?  argues against this: effects
-     of context in a cross-modal priming task only show up once you reach the
-     uniqueness point of the prime word, even in highly-constraining contexts.
+what's the role of context?  pre-selection?  argues against this: effects
+of context in a cross-modal priming task only show up once you reach the
+uniqueness point of the prime word, even in highly-constraining contexts.
 
-     there's a puzzle here though: in an actual gating task with the same
-     stimuli, you can identify the final word much earlier than the point at
-     which cross-modal priming effects seem to kick in.  argues that priming is
-     basically a lexical effect, whereas the integration is happening..somewhere
-     else?  hard to say.
+there's a puzzle here though: in an actual gating task with the same
+stimuli, you can identify the final word much earlier than the point at
+which cross-modal priming effects seem to kick in.  argues that priming is
+basically a lexical effect, whereas the integration is happening..somewhere
+else?  hard to say.
      
-     overall comes down on the side of lexical access being a *Fodorian input
-     system* (primacy of the bottom-up input).
+overall comes down on the side of lexical access being a *Fodorian input
+system* (primacy of the bottom-up input).
 
 **** McQueen 2007
      
      
 **** Comparison
-     MW focuses mostly on the bottom-up information...primacy of the signal.
+MW focuses mostly on the bottom-up information...primacy of the signal.
 
-     One point of contrast is that there's a lot more nuance in the McQueen
-     summary when it comes to *mismatch*: MW basically just says if there's a
-     mismatch then that's bad (does he?  does he also talk about sub-categorical
-     mismatch?)
+One point of contrast is that there's a lot more nuance in the McQueen
+summary when it comes to *mismatch*: MW basically just says if there's a
+mismatch then that's bad (does he?  does he also talk about sub-categorical
+mismatch?)
      
-     Evidence that rhyme-overlap are also considered discussed in McQueen
-     (p. 42).
+Evidence that rhyme-overlap are also considered discussed in McQueen
+(p. 42).
 
 *** things from response papers
 **** Ryne
-     what's the relation with these papers and the "traditional" level from
-     papers last week?  Seems like these authors are both taking the traditional
-     view...
+what's the relation with these papers and the "traditional" level from
+papers last week?  Seems like these authors are both taking the traditional
+view...
 
-     recognition point vs. uniqueness point
+recognition point vs. uniqueness point
 
 **** Huteng
-     Doesn't cite any phonologists...
+Doesn't cite any phonologists...
 
-     What is the cohort model, really?  What is the gating technique?
+What is the cohort model, really?  What is the gating technique?
 
 **** Yarkin
-     segmental vs. suprasegmental information...can they really be separated?
+segmental vs. suprasegmental information...can they really be separated?
 
 **** Joseph
-     relate these to predictive models like GPT and SRN...(to me, interesting
-     question is how much and what kind of context are involved in capturing the
-     predictions people seem to be making?)
+relate these to predictive models like GPT and SRN...(to me, interesting
+question is how much and what kind of context are involved in capturing the
+predictions people seem to be making?)
 
 *** Questions
 
-    If content/context influences form-based selection in lexical access, how
-    could the models we discussed last week account for that?  What kind of
-    predictions would that make?
+If content/context influences form-based selection in lexical access, how
+could the models we discussed last week account for that?  What kind of
+predictions would that make?
 
-    Integration vs. prediction ("true" top-down vs. "only integration"
-    effects)...how can you tell them apart?  What are the readings suggesting
-    about that?
+Integration vs. prediction ("true" top-down vs. "only integration"
+effects)...how can you tell them apart?  What are the readings suggesting
+about that?
 
-    Let's look critically at the assertion from Marslen-Wilson that the
-    bottom-up signal has primacy in lexical access in light of the more recent
-    findings summarized by McQueen (coarticulation, assimilation, use of
-    phonological knowledge, context effects)
+Let's look critically at the assertion from Marslen-Wilson that the
+bottom-up signal has primacy in lexical access in light of the more recent
+findings summarized by McQueen (coarticulation, assimilation, use of
+phonological knowledge, context effects)
 
-    What about the claim of directionality?  What's the evidence for this?  Are
-    there alternative explanations for these findings?
+What about the claim of directionality?  What's the evidence for this?  Are
+there alternative explanations for these findings?
 
-    Are any of these effects /incompatible/ with an exemplar model?  Are any of
-    them easier/more natural to explain with an exemplar model than a
-    "abstractionist" model where lexical access is mediated by sublexical
-    representations?  (Maybe the suprasegmental stuff, like the "'ham' in
-    'hamster'" effect...)
+Are any of these effects /incompatible/ with an exemplar model?  Are any of
+them easier/more natural to explain with an exemplar model than a
+"abstractionist" model where lexical access is mediated by sublexical
+representations?  (Maybe the suprasegmental stuff, like the "'ham' in
+'hamster'" effect...)
 
 *** Learning goals for this week     
-    Identify the methodologies that are used to investigate lexical access in
-    these papers (cross-modal priming, gating, word identification)
+Identify the methodologies that are used to investigate lexical access in
+these papers (cross-modal priming, gating, word identification)
 
-    Think about the relationship between the *cognitive processes and
-    representations* as distinct from the *methods* we use to probe them (e.g.,
-    word identification shows early use of context information, but cross-model
-    priming does not).
+Think about the relationship between the *cognitive processes and
+representations* as distinct from the *methods* we use to probe them (e.g.,
+word identification shows early use of context information, but cross-model
+priming does not).
     
-    Be able to explain how we know that word forms and meanings are activated in
-    /parallel/ during lexical access.
+Be able to explain how we know that word forms and meanings are activated in
+/parallel/ during lexical access.
 
-    Think about the role of top-down processing in lexical access.  Does it play
-    any role?  What is the role?  What sort of information is involved in
-    top-down lexical access?
+Think about the role of top-down processing in lexical access.  Does it play
+any role?  What is the role?  What sort of information is involved in
+top-down lexical access?
 
-    (related to above) We're starting to approach how context across different
-    levels of linguistic processing might affect speech recognition.  Based on
-    these readings, what is the role that context can and cannot play in lexical
-    access?
+(related to above) We're starting to approach how context across different
+levels of linguistic processing might affect speech recognition.  Based on
+these readings, what is the role that context can and cannot play in lexical
+access?
 
-    How has our understanding of lexical access evolved between the two
-    readings?  (More detailed understanding of what information matters and how
-    much, rather than just match/mismatch; expanded scope of study to
-    segmentation and suprasegmental cues like stress)  What hasn't changed?
-    ("primacy of the signal")
+How has our understanding of lexical access evolved between the two
+readings?  (More detailed understanding of what information matters and how
+much, rather than just match/mismatch; expanded scope of study to
+segmentation and suprasegmental cues like stress)  What hasn't changed?
+("primacy of the signal")
     
 *** Plan for class
-    Want to do a bit more structured stuff...like having pairs come up with
-    answers to basic content questions, put them in a shared google doc, and
-    then report back to the whole class.
+Want to do a bit more structured stuff...like having pairs come up with
+answers to basic content questions, put them in a shared google doc, and
+then report back to the whole class.
     
 **** themes
-     interaction between bottom-up and top-down information.  
+interaction between bottom-up and top-down information.  
 
-     continuous and probabilistic access and integration.
+continuous and probabilistic access and integration.
 
-     lexical access sensitive to many many sources of information.
+lexical access sensitive to many many sources of information.
 
 **** activities
 ***** methods (15 minutes)
-      make a list of the main methods discussed in these readings.  
+make a list of the main methods discussed in these readings.  
 
 ***** what's the evidence for parallel activation of word FORMs and MEANINGs (30 minutes)
-      Form: priming to onset matches; disruption of lexical access when a changed
-      segment makes another word but not (or less so) for a nonword.  fast access
-      (close shadowing)
+Form: priming to onset matches; disruption of lexical access when a changed
+segment makes another word but not (or less so) for a nonword.  fast access
+(close shadowing)
 
-      recognition point (based on neighbors); early entry; recognize similar
-      sounding words based on onsets
+recognition point (based on neighbors); early entry; recognize similar
+sounding words based on onsets
 
-      Meaning: cross-model priming of onset matches.  involvement of context in
-      identification before uniqueness point.
+Meaning: cross-model priming of onset matches.  involvement of context in
+identification before uniqueness point.
      
 ***** what role does top-down processing play in lexical access? (60 minutes?)
-      Are there limits?  What is the evidence?
+Are there limits?  What is the evidence?
 
-      My take: MW argues it plays a /limited role/: shows up in /integration/
-      processes but not in activation/access/selection.  Evidence for this is:
-      recognition before uniqueness point, but limited because you don't get
-      context-specific priming /until uniqueness point/ (context-inconsistent
-      but form-consistent words are still considered)  (questions about
-      "activatoin" and "spreading activation" metaphor here)
+My take: MW argues it plays a /limited role/: shows up in /integration/
+processes but not in activation/access/selection.  Evidence for this is:
+recognition before uniqueness point, but limited because you don't get
+context-specific priming /until uniqueness point/ (context-inconsistent
+but form-consistent words are still considered)  (questions about
+"activatoin" and "spreading activation" metaphor here)
 
-      questions (Ryne and Yarkin): what counts as "top-down"
+questions (Ryne and Yarkin): what counts as "top-down"
 
-      Sten and Elif: what is lexical access here? (bug example).  WHYYY woudl
-      you activate the other meanings if you can rule them out???  (uncertainty
-      about segmentation?  uncertainty about context?)
+Sten and Elif: what is lexical access here? (bug example).  WHYYY woudl
+you activate the other meanings if you can rule them out???  (uncertainty
+about segmentation?  uncertainty about context?)
 
-      phonemic restoration?
+phonemic restoration?
 
 ***** representations: gradient/categorical
-      compatible with exemplar models?  with "traditional view"?  with
-      connectionist models like TRACE?
+compatible with exemplar models?  with "traditional view"?  with
+connectionist models like TRACE?
 
-      think especially about the findings reviewed in McQueen: importance of
-      suprasegmental cues, coarticulation, gradedness.
+think especially about the findings reviewed in McQueen: importance of
+suprasegmental cues, coarticulation, gradedness.
 
-      McQueen starts by just assuming that lexical access is mediated by some
-      kind of sub-lexical categorical representations...how consistent is that
-      with the results he reviews?
+McQueen starts by just assuming that lexical access is mediated by some
+kind of sub-lexical categorical representations...how consistent is that
+with the results he reviews?
 
 **** Groups from class
-     Prompt 1: Huteng, Joselyn, Joseph; Ryne, Yarkin; Elif, Sten
+Prompt 1: Huteng, Joselyn, Joseph; Ryne, Yarkin; Elif, Sten
+
