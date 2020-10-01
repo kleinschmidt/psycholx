@@ -678,6 +678,11 @@ Prompt 1: Huteng, Joselyn, Joseph; Ryne, Yarkin; Elif, Sten
 **** Readings
 
 ***** Tanenhaus and Trueswell
+
+*I think this reading is too hard* - not enough details/examples, too much
+literature is reviewed. it's VERY THOROUGH but ... hard to grasp for someone not
+already familiar with the paradigms etc.
+
 Contrast is between /constraint based/ vs. /informationally encapsulated/
 (modular) theories.
 
@@ -892,4 +897,34 @@ evidence...)
 Same as last week, use breakout rooms and a google doc with prompts for
 reflection.  Aim for 3-4 topics/questions to discuss
 
-Question: what theor
+**** Prompt 1: theories
+For modular vs. interactive theories, /what information/ is used to construct the
+parse, and /when/ is it used?
+
+What is the source of /processing difficulty/ in these theories?
+
+**** Prompt 2: empirical evidence
+What is the evidence reviewed in the readings that best supports (or supported
+at the time) the garden-path theory?  What about constraint-based interactive
+theory?  Try to identify 2-3 pieces of evidence for each.
+
+**** Prompt 3: what is the role of linguistic theory here?
+(I see two places: historical development of psycholinguistic theory/models, and
+in identifying linguistically interesting or important phenomena to target with
+psycholinguistics, like null anaphor/gapping/ellipsis)
+
+**** Prompt 4: Compare and contrast with lexical access theories
+Last two weeks we discussed how sounds make contact with linguistic
+representations and the lexicon - the "traditional view", connectionist theories
+like TRACE, the cohort model, exemplar theory.
+
+Which of these approaches do you see as closest in spirit with the garden-path
+theory?  The 'constraint satisfaction' theory?  What are the common issues that
+are at stake in each domain?
+
+**** Prompt 5: Many correlated cues
+Again, connect with last week: McQueen especially highlights how many different
+sources of information there are in the speech signal to guide lexical access,
+cues which people do appear to use.  With the readings this week, we're again
+seeing that: there are many overlapping "constraints" or cues which guide the
+listener/reader to the correct parse of a sentence (or lead them astray).
