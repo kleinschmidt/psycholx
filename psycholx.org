@@ -775,6 +775,10 @@ thematic fit is weak (pro-modular) but discourse information is fast
 
 the rest I ... skipped
 
+un-grammatical parses are still stored in memory/affect later parsing?
+e.g. kashak and glenburg finding (ungrammatical form gets easier to comprehend);
+the thing about changing the baby
+
 **** Questions
 What's the advantage of a "garden path" model of online sentence processing?
 (Simple rules, informationally encapsulated; theory is more constrained so makes
@@ -814,6 +818,12 @@ why is there ambiguity at all?  seems like a bad design choice!
 
 (related: written vs. spoken stimuli, does that bias our understanding?)
 
+What things are /easy/ to explain with a garden path theory, and what things are
+/hard/?  What about constraint satisfaction?  What theoretical problems do these
+theories /solve/, and what do they /create/?  Garden path theories - solve the
+problem of fast, online comprehension (information encapsulation, simple
+procedures)...create the problem of how other information gets integrated
+
 **** response papers
 
 ***** Ryne
@@ -836,3 +846,50 @@ temporal stuff, does it matter in bayesian updating?
 lexical vs. syntactic ambiguity resolution
 
 no bayes (but foreshadowing??)
+
+**** Learning objectives
+Identify the problems these theories are trying to explain (language unfolds
+over time and is processed /rapidly/ and /continuously/, but has a
+hierarchical/nonlinear structure/"nonadjacent grammatic dependencies" which
+leads to /temporary ambiguity/ during processing)
+
+Identify the major empirical /phenomena/ and methods addressed in this work
+(high level: "who did what to whom" kind of parsing, (self-paced) reading
+time/difficulty/, memory of surface form,
+
+Identify the different theories of syntactic ambiguity resolution:
+modular/garden path, interactive/constraint satisfaction, (maybe: discourse
+model...what's this called?)
+
+Garden path theory: identify the stages of processing in garden path theories,
+and when different kinds of evidence play a role in parsing? (Syntactic category
+and grammar, first pass.  Thematic fit/semantics, only on encountering error)
+
+Identify major sources of empirical evidence IN FAVOR of garden path theories,
+and AGAINST (reading times slower at disambiguating regions; evidence that
+frequency and thematic fit can influence early processing)
+
+Identify the relationship between /linguistic theory/ and /psycholinguistic/
+investigation (turn from deep structure to surface structure/clausal
+processing, etc.)
+
+Connect the theories of parsing this week with the issues of lexical access we
+discussed last week: what role does top-down information play in parsing
+according to garden path + constraint satisfaction theories?  When is it
+available, and when is it used?  (Garden path model is /kind of/ like the cohort
+model...except that cohort model allows ambiguity to be resolved based on top
+down information...)
+
+Connect debates in parsing with larger issues of how multiple, correlated
+constraints/cues shape processing...does that fact make it EASIER or HARDER to
+extract the underlying linguistic structure of the speech stream?  (on the one
+hand, it makes it easier because there's many sources of evidence to guide your
+interpretation, but harder because they're not all directly/locally linked to
+the underlying structure, and they're /weak/ or /probabilistic/ sources of
+evidence...)
+
+*** Plan
+Same as last week, use breakout rooms and a google doc with prompts for
+reflection.  Aim for 3-4 topics/questions to discuss
+
+Question: what theor
