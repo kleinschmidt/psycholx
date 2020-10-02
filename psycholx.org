@@ -904,12 +904,25 @@ etc. so that's 160.
 For modular vs. interactive theories, /what information/ is used to construct the
 parse, and /when/ is it used?
 
+- modular: syntactic categories (N/V/Adj/P) + grammatical rules at first (as
+  words come in), lexical information/frequency/thematic fit only when the
+  initial syntactic parse fails
+- interactive: anything and everything...thematic fit (how "agent-y" a noun is),
+  subcategorization frames, argument structure, frequency information.  all
+  information is /available/, but some information only actually ends up being
+  /used/ when there's no stronger cues available (e.g., bottom-up syntactic
+  category/grammatical restriction
+
 What is the source of /processing difficulty/ in these theories?
 
 **** Prompt 2: empirical evidence - 45 minutes (0+20+25)
 What is the evidence reviewed in the readings that best supports (or supported
 at the time) the garden-path theory?  What about constraint-based interactive
 theory?  Try to identify 2-3 pieces of evidence for each.
+
+- modular: Joseph (memory for ungrammatical initial), reading times at
+  disambiguating region for bad structure
+- constraint satisfaction
 
 **** break - 20 minutes
 
@@ -921,6 +934,11 @@ like TRACE, the cohort model, exemplar theory.
 Which of these approaches do you see as closest in spirit with the garden-path
 theory?  The 'constraint satisfaction' theory?
 
+- garden path: traditional view...strict separation of information sources?
+- constraint satisfaction theory: cohort model maybe, but generation of cohort
+  is purely bottom-up...but TRACE
+
+I'm hearing...information encapsulation, what's considered when...
 **** Prompt 4: Many correlated cues - remainder of class
 Again, connect with last week: McQueen especially highlights how many different
 sources of information there are in the speech signal to guide lexical access,
