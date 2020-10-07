@@ -961,3 +961,16 @@ psycholinguistics, like null anaphor/gapping/ellipsis)
 
 *** Class 5 - production
 
+**** Readings
+
+***** Goldrick - Connectionist theories
+
+***** Ferreira and Slev - grammatical encoding
+
+***** Meyer and Belke - word form/phonological encoding
+
+**** Questions
+
+**** Learning objectives
+
+**** Plan for class
