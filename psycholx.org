@@ -1,5 +1,5 @@
 #+TITLE: Grad psycholinguistics
-#+STARTUP: indent
+#+STARTUP: indent children
 
 * Scheduling
 
@@ -673,11 +673,11 @@ with the results he reviews?
 **** Groups from class
 Prompt 1: Huteng, Joselyn, Joseph; Ryne, Yarkin; Elif, Sten
 
-*** Class 4 - sentence processing
+** Class 4 - sentence processing
     
-**** Readings
+*** Readings
 
-***** Tanenhaus and Trueswell
+**** Tanenhaus and Trueswell
 
 *I think this reading is too hard* - not enough details/examples, too much
 literature is reviewed. it's VERY THOROUGH but ... hard to grasp for someone not
@@ -686,21 +686,21 @@ already familiar with the paradigms etc.
 Contrast is between /constraint based/ vs. /informationally encapsulated/
 (modular) theories.
 
-****** History
+***** History
 general arc: language as product (sentence as a linguistic entity) to language
 as action (situated in discourse context, produced and interpreted online and
 continuously)
 
 Miller - deep structure + transformation tags stored in memory.
 
-****** Current issues
+***** Current issues
 
-******* Syntactic category ambiguity
+****** Syntactic category ambiguity
 multiple access - different senses are activated even in constraining contexts
 (but sentence context only weakly constraining), rapidly resolved based on
 semantic and syntactic context.  /contingent frequencies/
 
-******* Attachment ambiguity
+****** Attachment ambiguity
 three families of theories: garden path, referential, and constraint-based.
 
 garden path: Minimal Attachment (simplest possible parse) and Late Closure
@@ -720,7 +720,7 @@ lexical ambiguities (argument structure; tense; voice).  "The horse raced past
 the barn fell" vs. "The landmine buried in the sand exploded" (race/bury
 frequency in passive/participle/intransitive, agent-ness of horse/landmine)
 
-******** Evidence
+******* Evidence
 disambiguating region: hgiher reading times (first and second pass)
 
 verb-specific syntactic frames ("After the child visited/sneezed the doctor
@@ -737,7 +737,7 @@ alternatives
 
 prosody and intonation: it matters (phrase boundaries)
 
-******* empty categories
+****** empty categories
 Filler-gap dependencies.  Why?  Because syntactic theories care about them, and
 different syntactic theories differ in how they handle them.  Also about
 coordinating different kinds of information (for the less ling-y crowd).
@@ -751,13 +751,13 @@ determining whether gap filling candidate is good?
 Gaps (empty categories) appear to prime like pronouns do (maybe even at the
 point the verb is encountered)
 
-******* sentence memory
+****** sentence memory
 evidence that there's no verbatim memory even for recent material, "reconstructed
 out of lexical representations and their argument structures"
 
 but...priming.
 
-******* context and anaphora
+****** context and anaphora
 not a separate stage where context-independent meaning is
 computed/extracted... rather interpretation happens in the context of a
 discourse model shaped by context and continuously updated as new material comes
@@ -771,7 +771,7 @@ places form constraints, requires linguistically specified antecedent).  but not
 much experimental support ... conceptual reference for deep anaphor yes, but
 also for surface...
 
-***** van Gompel and Pickering (2007)
+**** van Gompel and Pickering (2007)
 both classes are theory are alive and well 10+ years later!  Still work being
 done on "revision"
 
@@ -784,7 +784,7 @@ un-grammatical parses are still stored in memory/affect later parsing?
 e.g. kashak and glenburg finding (ungrammatical form gets easier to comprehend);
 the thing about changing the baby
 
-**** Questions
+*** Questions
 What's the advantage of a "garden path" model of online sentence processing?
 (Simple rules, informationally encapsulated; theory is more constrained so makes
 more specific predictions, vs. constraint-based theories which suffer
@@ -829,30 +829,30 @@ theories /solve/, and what do they /create/?  Garden path theories - solve the
 problem of fast, online comprehension (information encapsulation, simple
 procedures)...create the problem of how other information gets integrated
 
-**** response papers
+*** response papers
 
-***** Ryne
+**** Ryne
 "Kind of fun that you can add components/attachments to your model ad hoc and
 everyone’s got different models/principles with names (e.g. Fodor & Frazier
 adding Late Closure)." lolololol
 
-***** Joselyn
+**** Joselyn
 "what's a sentence and why do we focus on it..."
 
 multiple languages
 
-***** Joseph
+**** Joseph
 modular/interactive - belief updating...reliability of evidence, bias-variance
 tradeoff
 
 temporal stuff, does it matter in bayesian updating? 
 
-***** Sten
+**** Sten
 lexical vs. syntactic ambiguity resolution
 
 no bayes (but foreshadowing??)
 
-**** Learning objectives
+*** Learning objectives
 Identify the problems these theories are trying to explain (language unfolds
 over time and is processed /rapidly/ and /continuously/, but has a
 hierarchical/nonlinear structure/"nonadjacent grammatic dependencies" which
@@ -893,14 +893,14 @@ interpretation, but harder because they're not all directly/locally linked to
 the underlying structure, and they're /weak/ or /probabilistic/ sources of
 evidence...)
 
-**** Plan
+*** Plan
 Same as last week, use breakout rooms and a google doc with prompts for
 reflection.  Aim for 3-4 topics/questions to discuss
 
 We have 180 minutes of class time...plan on 20 minutes for break/late start
 etc. so that's 160.
 
-***** Prompt 1: theories - 30 minutes (5+10+15)
+**** Prompt 1: theories - 30 minutes (5+10+15)
 For modular vs. interactive theories, /what information/ is used to construct the
 parse, and /when/ is it used?
 
@@ -915,7 +915,7 @@ parse, and /when/ is it used?
 
 What is the source of /processing difficulty/ in these theories?
 
-***** Prompt 2: empirical evidence - 45 minutes (0+20+25)
+**** Prompt 2: empirical evidence - 45 minutes (0+20+25)
 What is the evidence reviewed in the readings that best supports (or supported
 at the time) the garden-path theory?  What about constraint-based interactive
 theory?  Try to identify 2-3 pieces of evidence for each.
@@ -924,9 +924,9 @@ theory?  Try to identify 2-3 pieces of evidence for each.
   disambiguating region for bad structure
 - constraint satisfaction
 
-***** break - 20 minutes
+**** break - 20 minutes
 
-***** Prompt 3: Compare and contrast with lexical access theories - 30 minutes (5+10+15)
+**** Prompt 3: Compare and contrast with lexical access theories - 30 minutes (5+10+15)
 Last two weeks we discussed how sounds make contact with linguistic
 representations and the lexicon - the "traditional view", connectionist theories
 like TRACE, the cohort model, exemplar theory.
@@ -939,7 +939,7 @@ theory?  The 'constraint satisfaction' theory?
   is purely bottom-up...but TRACE
 
 I'm hearing...information encapsulation, what's considered when...
-***** Prompt 4: Many correlated cues - remainder of class
+**** Prompt 4: Many correlated cues - remainder of class
 Again, connect with last week: McQueen especially highlights how many different
 sources of information there are in the speech signal to guide lexical access,
 cues which people do appear to use.  With the readings this week, we're again
@@ -954,23 +954,117 @@ What does the empirical evidence about whether (or when) people seem to make use
 of different kinds of constraints/cues/information tell us about the nature of
 language processing?
 
-***** Prompt 5: what is the role of linguistic theory here?
+**** Prompt 5: what is the role of linguistic theory here?
 (I see two places: historical development of psycholinguistic theory/models, and
 in identifying linguistically interesting or important phenomena to target with
 psycholinguistics, like null anaphor/gapping/ellipsis)
 
-*** Class 5 - production
+** Class 5 - production
 
-**** Readings
+*** Readings
 
-***** Goldrick - Connectionist theories
+**** Goldrick - Connectionist theories
 
-***** Ferreira and Slev - grammatical encoding
+***** Initial notes
+A "generic localist" connectionist network for speech production (word naming),
+explains three types of empirical phenomena: mixed errors more common than
+expected by chance, semantic interference vs. phonological facilitation, and
+impairments.
 
-***** Meyer and Belke - word form/phonological encoding
+Then turns to talking about distributed theories, and learning.  Focus on
+syntactic priming as implicit learning (Chang et al. , SRN with learning
+mechanism), and some kinda oscillator based distributed representation of
+sequencing/planning of phonetic segments (lost on me)
 
-**** Questions
+***** close reading
+mixed errors: explained via two additional mechanisms (cascading activation
+and/or feedback)...
 
-**** Learning objectives
+disruptions: global vs. local explanations (local wins, global cannot account
+for "pure" error distributions, like only semantic)...original global account
+has two free parameters: (global) connection weight scaling and (global) decay.
+fit to 21 aphasic patients, predict rate of
+semantic/phonological/unrelated/non-word errors.
 
-**** Plan for class
+production models *dffer* from connectionist principle in other domains, in two
+ways: no learning, and localist representations  (connected: backprop learning
+yields distributed hidden layer representations).  two recent developments
+1. syntactic priming as implicit learning
+2. distributed representations of planning frames using oscillators with learned
+   connection weights to phonological structure (interesting that they do not go
+   into the problems with the localist representations of words!!)
+
+***** learning objectives
+two stages: activation and selection.  why two stages?  what's the role that
+each plays?  what's the mechanism for each?  (spreading activation; boosting,
+competitoin, or gating)
+
+three empirical findings - what are they and how are they explained in
+(localist) connectionist models?
+1. semantic interference vs. phonological facilitation
+2. mixed errors
+3. disruptions/disorders
+
+understand how "classic" connectionist models of production diverge from other
+connectionist work (localist, and fixed)
+**** Ferreira and Slev - grammatical encoding
+
+**** Meyer and Belke - word form/phonological encoding
+Basic distinction: *selection* of lexical unit to produce, *retrieval* of word
+form.  why?
+- patterns of speech errors: whole word (cross phrases, same syntactic category)
+  vs. phonological (same phrase, adjacent/close, different categories).  wider
+  planning span at lexical/phonological level than phonetic level
+- "tip of the tongue" states (some information about word but can't retrieve
+  form); lexical representation has multiple components that have to be
+  retrieved by different processes; corroborate by neurlogical case studies
+- time course of lexical access: semantic/syntactic is available slightly before
+  phonetic. 
+
+serial staged vs. cascaded models (evidence favors cascaded, maybe with
+feedback).
+
+but all models agree: separate processes of selection of lemma and retrieval of
+form.  this chapter focuses on *word form retrieval*.
+
+rest of the paper: three phases of wordform retrieval: 
+1. morphological encoding
+2. phonological encoding
+3. phonetic encoding
+
+priming studies suggest independent *morphological representations* (with some
+questions about derived forms, like ir/regular past tense)
+
+speech errors (and re-syllabification/assimilation/etc.) suggest *phonological
+representations* of words too.
+
+things that are not independently planned: very few errors involve /single
+phonological features/, but subsitutions/swaps share more features than expected
+by chance.  Very few errors of whole syllables moving
+
+interactive (feedback-y) vs. non-interactive models of morpheme-to-phonological
+spread...challenge is neighborhood effects: dense neighborhood words easier to
+produce.  easy to explain via feedback, harder without (has to go through
+*comprehension system* via some monitoring system)
+
+phonetic encoding: go from abstract phonological units to articulatory
+gestures.  not a lot of models for this...one is the Levelt and Wheeldon "mental
+syllabary"
+
+***** Learning objectives
+What's the basic source of evidence for understanding the structure of the
+production system?  (speech errors, priming)
+
+connect data on the role that segments play in planning/production with the
+abstractionist/exemplar debates in comprehension.
+
+Think about interactive vs. non-interactive theories...how do you explain
+"feedback-y" effects without actually having feedback?  (monitoring system,
+comprehension representations)
+
+
+*** Questions
+
+*** Learning objectives
+
+*** Plan for class
