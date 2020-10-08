@@ -1009,6 +1009,29 @@ understand how "classic" connectionist models of production diverge from other
 connectionist work (localist, and fixed)
 **** Ferreira and Slev - grammatical encoding
 
+***** first read
+Talk about "consensus model" where structure and content are planned
+separately.  Then talk about debates: separation between selection and
+retrieval; whehter content really is planned separately from structure.  Then
+more debates: planning scope/incrementality, and syntactic choice.  Then (more)
+"emerging" debates: priming, eye movements, storage/memory, disorders.
+
+Close with "fundamental insights": linguistic and non-linguistic knowledge are
+different (at some level); "syntax is in there somewhere"
+
+Overall a little light on data for first bit but teh rest is really good.
+
+***** debates
+is there really strict separation between *structure* and *content* processing?
+"consensus model" says yes...but alternative proposals say no?  Like lexicalized
+tree-adjoining grammars, "combinatorial nodes" from pickering
+
+"lexicalized accounts require additional processing machinery to explain
+lexically-independent structure-building effects, most especially evidence that
+syntactic persistence occurs completely independently of lexical content" -
+similar trade-off as with exemplar models: makes some things easier to explain,
+but others harder.
+
 **** Meyer and Belke - word form/phonological encoding
 Basic distinction: *selection* of lexical unit to produce, *retrieval* of word
 form.  why?
@@ -1059,12 +1082,52 @@ connect data on the role that segments play in planning/production with the
 abstractionist/exemplar debates in comprehension.
 
 Think about interactive vs. non-interactive theories...how do you explain
-"feedback-y" effects without actually having feedback?  (monitoring system,
-comprehension representations)
-
+"feedback-y" effects (e.g. neighborhood density facilitation) without actually
+having feedback?  (monitoring system, comprehension representations)
 
 *** Questions
+Each of these papers presents a "consensus model"...what's the relationship
+between them?  Where do they agree, and where to do they conflict?  (Ryne
+response...)
+
+Relationship between production and perception mechanisms...
 
 *** Learning objectives
+Understand the structure/content distinction
+
+Selection/retrieval (access?) distinction
+
+Incremental/staged vs. cascading
+
+Priming/persistence phenomena: What is the phenomenon? Why do they pose a
+challenge to the models of production discussed in these readings?  How would
+you account for them?
+
+
 
 *** Plan for class
+God, I dunno.  What actually matters here?
+- speech errors as data source
+- structure/content
+- selection/activation
+- priming
+
+**** Prompt 1 - sources of evidence
+What are the primary types of behavior/experimental designs that serve as
+evidence for understanding production?
+
+**** Prompt 2 - "consensus models"
+Each of the chapters we read reviews a "consensus model" of production
+('grammatical' encoding, word form encoding, and a generic connectionist
+framework).  What are the points where these models agree?  Are there any
+disagreements between the different "consensus" models?
+
+(my answers: agree on some degree of separation between selection and
+retrieval/access, and separation of different kinds of structural/content
+information
+
+** Clsss 6 - discours/pragmatics
+
+*** Questions
+Connect with last week...what do these pragmatic/discourse effects suggest about
+the architecture of the "message planning" phase of production?
