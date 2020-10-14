@@ -1217,10 +1217,71 @@ accenting)
 type of knowledge mismatch - level 1 TOM (missing knowledge) vs. level 2 TOM
 (different knoweldge/false belief)
 *** Degen and Tanenhaus - scalar implicature
+central question of pragmatics: "how context contributes to meaning"
+
+strategic (smart, slow) vs. automatic (fast, dumb) processing...or,
+unconstrained/conflicting inference vs. constrained inference
+
+contrast "information privilege" accounts with constraint-based accounts of
+scalar implicature
+**** constraint-based approaches to language
+four properties:
+1. rapidly integrate  multiple weighted probabilsitic cues
+2. generate expectations of multiple types about the future
+3. rapidly adjust to differnet speakers/situation
+4. architectural constraints are a last resort
+
+ex: syntactic ambiguity
+
+need to *identify and quantify relevant constraints*.
+
+central role of context
+
+linking hypotheses
+
+richness of the signal
+**** scalar implicature, "the drosophilia of experimental pragmatics"
+"some-but-not-all".
+**** approaches to pragmatics
+two extremes: information privilege vs. parallelism
+
+"literal first" and "Default" (conventionalized) hypotheses for scalar
+implicature (opposite bias but same extreme hypothesis about time course)
+**** constraints
+"factors" whose settings vary across experiments (either explicitly or via
+uncontrolled stimuli/settings) and which affect pragmatic processing
+
+- QUD - "states of the world worth distinguishing for interlocutors" (can be
+  different between two interlocutors!)
+- world knowledge ("city council/protesters feared/advocated violence")
+- cost/informativeness of utterance vs. alternatives: freq, length, complexity,
+  social cost, etc.
+- properties of speaker
+- common ground
+**** constraint-based approach 
+early results: "costly implicature" incur processing delay (responding to "some
+elephants are mammals" with pragmatic "FALSE" is slower than literal
+"TRUE")...motviated *literal first* theories.
+
+but...there exist contexts where scalar implicatures do not incur a processing
+cost (VW eye tracking): if only "some" and "all" available, okay, but if "two",
+"three", etc. also avaiable, costly
+
+sometimes fast, sometimes slow - depends on context
+
+constraint-based accounts are useful because they claim that probability and
+speed of computing implicatures depends on contextual support.  so you can
+measure the influence of different kinds of cues and make predictions about
+un-observed combinations of them.  Combine corpus studies of support for scalar
+implicatures of varying strength, and laboratory studies to investigate
+individual factors carefully
+
+resource constraints: less likely to respond pragmatically under load.
+(explained by cue conflict?)
 
 *** Learning objectives
 
-Common ground
+Phenomena/concepts: Common ground, perspective taking, and scalar implicature
 
 Tasks/evidence - "referrential communication task", privileged/common ground
 manipulated in various ways (e.g. cubby hole task).  Analyze *forms produced*
@@ -1228,3 +1289,16 @@ and *real-time interpretation* (what would egocentric predict?)
 
 Role of theoretical traditions from other fields in shaping understanding and
 study of perspective taking: egocentrism, modularity.
+
+Draw parallel between modular/informationally privileged accounts here and in
+syntactic processing and in phonetic/lexical access.
+
+Think about the various notions of /context/ that are being invoked here:
+linguistic context, discourse context, social context (informativity,
+cooperative speaker) - role of context in constraint-based explanations of
+processing difficulty.
+
+*** Questions
+How do we square evidence for resource limitations with constraint-satisfaction
+theories?  (cue conflict I guess...you'd predict more sensitivity to resource
+limitations when there are conflicting cues of roughly equal strength
