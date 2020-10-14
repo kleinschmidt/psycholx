@@ -1131,3 +1131,100 @@ information
 *** Questions
 Connect with last week...what do these pragmatic/discourse effects suggest about
 the architecture of the "message planning" phase of production?
+
+What do you choose to talk about and how?  And does that process have anything
+to do with how you COMPREHEND things?
+
+*** Readings
+
+**** Brown-Schmidt and Heller - common ground/perspective taking
+Common ground - information available to all and mutually acknowledged as such.
+
+Taken for granted that adults represent perspective of others - questions are
+*how* and *when* does that information influence language processing, and
+whether it's shared between *comprehension* and *production*.
+
+Contrast with *theory of mind* in psychology and *egocentrism* in social psych
+and decision making (egocentric-first theories influenced perspective taking)
+
+***** past
+Clark and Marshal etc.: "diary of references" specific to particular partners.
+Resolving references relies on /assumptions/ and /evidence/ via heuristics to
+estimate common ground (requires infinite recursion otherwise)
+
+Shorter referrential forms for common ground...longer when not in common ground.
+
+Common ground is *actively constructed* by both speaker and listener
+(grounding/backchanneling).
+
+late 90s: real-time/on-line comprehension. (Keysar, Barr, et al. 1998): early
+unrestricted search (common+priv ground), followed by restricted search.
+Motivated partly by Tversky, but also by Fodor (common ground too hard to
+integrate in real time).
+
+but...constraint-based lexicalist approaches...including perspective of speaker
+(cubby hole expt, with big/large objects in priv/common ground...)
+
+production: under time pressure, speakers include unnecessary adjective ~half
+the time (vs. 75% when both large/small available).  so...less than baseline but
+still more than 0...so is it evidence for/against egocentrism?  it's
+complicated: speakers often *expected to* draw on privileged ground "to make
+felicitous contributions to the conversation"
+
+***** present
+focus shifted from /whether/ to /when and how/ perspective information is used.
+
+"era of cataloguing":
+
+Topics:
+- sitauted conversation
+- partner characteristics (stereotype, deficits
+- partner's goals and beliefs - false beliefs, actions partner can make, desire
+  to keep secrets
+
+cognitive differences - memory/cognitive control.  but also experience.
+
+demise of egocentric-first framework left fiedl *looking for a new framework*.
+
+Interactive alignment (get perspective taking "for free" from more general
+mechanisms), can explain things like conceptual pacts EXCEPT for the fact that
+they CHANGE over time.
+
+"Ordinary memory processes" - memory traces link partner and "contents of shared
+experience", addressee serves as recall cue for previous referring expressions.
+Central prediction: perspective-taking is *linked to shared experience*.  But -
+not all perspective taking is through (direct) shared experience (Clark NYC
+postcard task: speakers infer and adapt to addressee's level of knoweldge)
+
+"seems unlikely" that domain-general cognitive processes can explain all
+common-ground related phenomena...
+
+***** future
+previous attempts to explain perspective taking: it doesn't happen (Keysar), or
+it's a byproduct of other domain general processes (alignment, memory)
+
+computational models: bayesian pragmatics.  probabilistic which is good, adn
+captures connection between comprehension and production (past comprehension
+guides inferences about knoweldge state).  but...not cognitive models.
+
+focus on referring expressions: "normally encode shared information" leads to
+focus on /common ground/, rather than /privileged/ information.  need to broaden
+the phenomena being studied to get a full understanding
+
+questions - who do you ask, why, and how?  (declarative qs, contrastive
+accenting)
+
+type of knowledge mismatch - level 1 TOM (missing knowledge) vs. level 2 TOM
+(different knoweldge/false belief)
+*** Degen and Tanenhaus - scalar implicature
+
+*** Learning objectives
+
+Common ground
+
+Tasks/evidence - "referrential communication task", privileged/common ground
+manipulated in various ways (e.g. cubby hole task).  Analyze *forms produced*
+and *real-time interpretation* (what would egocentric predict?)
+
+Role of theoretical traditions from other fields in shaping understanding and
+study of perspective taking: egocentrism, modularity.
