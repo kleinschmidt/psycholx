@@ -1281,11 +1281,14 @@ resource constraints: less likely to respond pragmatically under load.
 
 *** Learning objectives
 
-Phenomena/concepts: Common ground, perspective taking, and scalar implicature
+Phenomena/concepts: Common ground, perspective taking/egocentrism, and scalar
+implicature
 
-Tasks/evidence - "referrential communication task", privileged/common ground
-manipulated in various ways (e.g. cubby hole task).  Analyze *forms produced*
-and *real-time interpretation* (what would egocentric predict?)
+Tasks/evidence
+- "referrential communication task", privileged/common ground manipulated in
+  various ways (e.g. cubby hole task).  Analyze *forms produced* and *real-time
+  interpretation* (what would egocentric predict?).
+- scalar implicatures - (speeded) interpretation/truth value judgement.
 
 Role of theoretical traditions from other fields in shaping understanding and
 study of perspective taking: egocentrism, modularity.
@@ -1302,3 +1305,61 @@ processing difficulty.
 How do we square evidence for resource limitations with constraint-satisfaction
 theories?  (cue conflict I guess...you'd predict more sensitivity to resource
 limitations when there are conflicting cues of roughly equal strength
+
+What overlap, if any, is there between the phenomena that the readings from last
+week (production) are trying to explain, and the phenomena from this week's
+readings (discourse/pragmatics)?  (my answer: choice of what to produce?
+real-time/online processing, time pressure?  modularity and interaction (not
+phenomena really...)?  priming/adaptation/learning)
+
+*** Plan for class
+Going to (briefly) discuss BOTH sets of readings.
+
+**** Prompt 1 -
+Think back to the readings from last week.  What are the central
+methods/experimental paradigms they're drawing on to understand production
+processes?
+
+(priming/interference speeded production tasks, speech errors)
+
+What's the evidence from these paradigms in favor of a CASCADING model
+(vs. STAGED/INCREMETNAL)?
+
+- mixed errors: wouldn't be MORE likely to make mixed errors than the combined
+  error rate if you FIRST select the word, THEN retrieve its form.
+
+What's the evidence for separate stages for lexical SELECTION vs. RETRIEVAL?
+
+- phonological facilitation and semantic interference
+
+**** Prompt 2 - priming/persistence
+What is the phenomenon of priming/persistence, and why is it a challenge for the
+models of production from the readings to deal with?
+
+**** Prompt 3 - 
+What are the tasks/experimental paradigms used to investigate
+
+(a) perspective-taking
+
+- reference game/cubby-hole. - reference choice, speed, and eye movements
+
+(b) scalar implicature?
+
+- ...judgements about the implicature?  speed and 'accuracy'
+
+**** Prompt 4 -
+What are the /informationally encapsulated/ theories discussed this week?  What
+do these predict in the experimental paradigms you discussed above for:
+
+(a) perspective taking - egocentric(first): over-informative use in cubbyhole
+game.  but LESS than in control situations (50% vs. 75%).
+
+(b) scalar implicature - literal-first, Default hypothesis - predict 
+
+
+(egocentric-first, literal-first, conventinalized)  
+
+**** Prompt 5 
+What overlap, if any, is there between the phenomena that the readings from last
+week (production) are trying to explain, and the phenomena from this week's
+readings (discourse/pragmatics)?
