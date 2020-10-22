@@ -1519,10 +1519,87 @@ practices and standards of the psychological science of language processing?
 context-dependent that it seems really hard to study it in any kind of
 controlled way in the lab...which is not to say that it's an intellectually
 worthwhile thing to study, just that it's hard to integrate it into our
-communities of practice...)
+communities of practice...)  related: matched guise/IAT experiments
 
 Link between last week (pragmatics, what you COULD have said affecting the
 meaning of what you did) and indexical fields ([ɪn] by Northerners is read as an
 affectation of folksiness, [ɪŋ] by Southerners as pretentious).
 
 What does "iconic" mean in the context of third-wave sociolinguistics?
+
+Why do some linguistic variables come to be "indexical" while others don't?
+(Yarkin's question)  And where do the "trait" associations come from?  (Related
+to psycholx/sociolx disconnect...)
+
+What role does explicit indexicality/pose play, vs. just immitation/accomodation?
+
+*** Learning objectives
+
+Identify the "three waves" of sociolinguistic study and the major
+differences/developments that mark the transitions.
+
+Identify the major behavioral paradigms and data sources used in the study of
+language variation and how people produce and process it. (Survey/corpus
+studies, matched guise, priming, forced choice/free
+categorization/identification).
+
+Think about the challenges of incorporating social meaning into psycholingustic
+studies, and how social meaning in the different waves is incorporated into
+psycholinguistic methods and theories.
+
+Draw parallels with pragmatic inference?
+
+Think about whether social and linguistic variation are /continuous/ or
+/categorical/, and how you'd tell.  Is the answer to this question different
+when we consider /variation in the world/ and the /mental models of that
+variation/ that people have?
+
+*** Plan for class
+
+**** Prompt 1 - the waves
+Identify the "three waves" of sociolinguistic study that Eckert describes, and
+the major differences/developments that mark the transitions.  What kind of
+social meaning is the focus of each wave, and what kind of linguistic variation?
+
+**** Prompt 2 - empirical evidence
+What are the major sources of empirical evidence (e.g. /experimental paradigms/)
+about the nature of language variation and how it's processed/represented by
+listeners and speakers?
+
+matching, priming, explicit judgement
+
+**** Prompt 3 - socio-psycholinguistics
+Does psycholinguistics /need/ to consider social meaning at all, or is social
+meaning independent enough of "general" language processing that the two can be
+considered on their own?
+
+On the one hand, no, I don't think we NEED to consider social meaning, at least
+not all the time...it's possible to study language processing without directly
+investigating social meaning per se, just like it's possible to study, say,
+phonological processing without considering semantics...it might not get you ALL
+the way there but you can certainly learn things that way.  On the other hand,
+I think social meaning constitutes a really important source of context and
+structure that provides additional constaints/structure for language
+processing...so from the perspective that context/constraints really matter,
+then it seems hard to avoid, but not more or less hard to avoid than any other
+kind of context.
+
+What are the major /challenges/ for incorporating social meaning into the
+psycholinguistic study of language and language processing?  These could be
+conceptual or methodological challenges.
+
+...but that brings me to the challenges, which is that as a source of additional
+constraint/context it's SO much more slippery and contextual than the other
+things we've looked at, which are relatively stable (syllabic structure, syntax,
+etc.), with the possible exception of pragmatics, but even there you can get at
+it with joint tasks and constrained discourse structure, privileged/common
+ground, etc.  But social meaning feels...different, harder somehow.  It seems
+hard to really deal with it seriously without reaching outside the bounds of the
+laboratory...
+
+**** Prompt 4 - continuous vs. categorical
+Is social meaning and the language variation that indexes it /continuous/ and
+graded, or /categorical/ and symbolic/discrete?  Why?  It might help to consider
+separately (1) the variation that actually /exists in the world/ and (2) the
+mental model or representations that speakers and listeners use in producing and
+comprehending social meaning.
