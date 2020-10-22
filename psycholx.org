@@ -1363,3 +1363,166 @@ game.  but LESS than in control situations (50% vs. 75%).
 What overlap, if any, is there between the phenomena that the readings from last
 week (production) are trying to explain, and the phenomena from this week's
 readings (discourse/pragmatics)?
+
+** Class 7 - sociolinguistics
+
+*** Readings
+
+**** Eckert - three waves
+this is about "social meaning".  what's the relationship between social meaning
+and language variation? 
+
+***** First wave - survey methods/uniformitarian
+"Filling cells defined by macrosociological categories"
+
+class stratification, vernacular vs. standard language, language change
+
+within-speaker variation is "self-monitoring to supress a natural cognitive
+process" rather than "choice between socially meaningful forms"
+
+link social variation (age-graded) with historical patterns of change
+("assumption that the adult’s linguistic system reflects the state of the
+language at some critical period in acquisition")
+
+overall picture is: personal vernacular is "first acquired and most natural",
+and people self-correct/monitor deviations from "standard".  Standard is
+conservtive and resists change, so language change comes in via the
+vernaculars.
+
+BUT - leaders in change are not very lowest class/most vernacular...it's upper
+working and lower-middle class with most "local engagement" - "suggesting that
+vernacular variants are not simply the most natural way of speaking but have
+some kind of positive indexical value related to locally based life"
+***** Second wave - ethnography
+seek out "local categories" which "shed light on the relevance of
+macrosociological categories for life in the local setting"
+
+jocks and burnouts: patterns not set in childhood but part of identity formation
+in adolescence.
+
+semiotic process of construction of polar oppositions from continuous
+variation - recursivity (jocks/burnouts /within/ school communities embed the
+urban/suburban class distinctions of the area), iconicity (whole constellation
+of social practices including language take on iconic meaning associated with
+the social groups), and erasure of gradual differences
+
+***** Third wave - stylistic
+Ethnographic and sociological perspectives focus on /static/ categories, and
+"equate identity with category affiliation".
+
+"beyond the regional and obviously nonstandard variables that have been the
+bread and butter of the first two waves."
+
+"indexical order": distinctive features of a group take on their own indexical
+/meaning/ that can then be used in various moves.
+
+"bricolage": reassembling borrowed components to construct new social meaning.
+registers are input and output of this process..."enregisterment"
+
+Beijing mandarin among international finance types (vs. local state-run
+financial managers) - borrow variables from Taiwan/Hong Kong Mandarin, and
+eschew variables indexed to particularly Beijing qualities/personas to project
+cosmopolitan image
+
+Pittsburghese: polish working class variables come to be associated with the
+city as a whole /by people who have left or come from elsewhere/...need to be
+taken out of context to be given broader meaning.
+
+Variables can take on many different meanings in many different contexts
+(asporation of intervocalic /t/ for instance: "indexical value associated with
+hyperarticulation [... from] enregistered sources as divergent as British
+English, Yiddish, and schoolteacher talk."
+
+**** Loudermilk - psycholinguistic approaches to sociolinguistics
+"computational stages and cognitive representations underlying the perception
+and production of sociolinguistic meaning".
+
+***** How dialect variation is represented, perceived, and learned
+Forced choice/free classification of american dialects - pretty bad but
+experience matters - sensitivity to broad patterns but also maybe more
+fine-grained?  e.g. free classification of 6 dialects into on average 10 groups,
+but only three major groupings (NE, S, midwest/west) consistent.
+
+repetition priming - final /t/ variants (full, partially glottalized, glottal) -
+all variants immediately prime (lexical access), but only full [t]-[t] pairs see
+long-range repetition priming.  similar pattern for "r-full" vs. "r-less" NYC
+dialects - r-less NYC speakers show semantic and both short- and long-term
+repetition priming (although weaker for r-full prime/r-less target and
+vice-versa than for matching), while r-full (2nd gen) NYC speakers don't show
+long-term priming after r-less primes (but do show short-term), and GA listeners
+only show priming after GA primes
+
+Clopper & Pisoni (2004a): one-talker vs. three-talker dialect ID
+training...better learning of talker ID and sentence comprehension after
+1-talker training but better generalization to new talkers after three-talker
+training.
+
+Syntactic priming of unusual number agreement patterns (happens, and varies by
+age/gender/etc. of speaker)
+***** Stereotypes in speech processing
+Niedzielski (1999) - don't perceive canadian raising when think talker is from
+detroit
+
+Hay et al. (2006) - NZ/Aus /ɪ/ (raised in Aus, centralized in NZ) biased by
+toy/label on sheet
+
+Staum Casasanto (2008) - mass/mast (coronal deletion) + race: faster to respond
+to plausible continuation consistent with race of face
+
+Strand and Johnson (1996) - gender stereotypes about s/ʃ
+
+***** Attitudinal aspects
+Matched-guise - hold speaker constant, vary "guise" (langauge, dialect, etc.)
+and make ratings (intelligence, friendliness, etc.)
+
+Labov et al. 2011: newscaster professionalism vs. frequency of [ɪn-ɪŋ] /-ING/
+variants.  ratings depend on location and gender of rater and freq of variant
+
+Campbell-Kibler (2006,2007) - excerpts from natural conversations instead of
+script, re-recorded with [ɪn] and [ɪŋ] variants.  complex effects on ratings
+(southernness, gay, class/education).  "single variant can realize multiple
+social meanings"
+
+IAT - implicit measure vs. explicit from the matched guise task.  largely agrees
+with production and matched-guise data for /-ING/ variants, but sometimes
+diverges (foreign vs. standard US accents).
+
+***** Eye tracking and ERP studies
+bag-back minimal pair and /æ/-raising before /g/: fewer errors on "back" after
+exposure to raised-/æ/ dialect, and fewer competitor fixations 600ms after vowel
+offset.
+
+pin-pen "unmerger" in southern cities (Houston), age-graded.
+
+ERP: formal/informal -ING, congruent or non-congruent with context, high/low
+cloze probability.  Independent N400-like effects of close probability and
+variant, but consistent negativity for informal, regardless of context?
+
+*** Questions
+Social variation - on a continuum, or discrete categories?  Is it different in
+the world vs. in the mind? (e.g., the Preston study with Indiana/Michegan
+listeners making north/south boundaries differently) - also related to the
+discussion of jocks and burnouts ("continuous sociolinguistic geography" of
+suburban detroit vs. "construction of the polar opposition" between jocks and
+burnouts).
+
+What paradigms are we seeing here?  (priming, speeded judgements, forced-choice
+classification)
+
+Does knowledge of socially-indexed language variation reflect some kind of
+veridical statistical knowledge of those patterns, or not?  Why or why not?
+
+How, as psycholinguists, can we meaningfully study the role of language in
+communicating and constructing /social/ meaning?  Is that anathema to the normal
+practices and standards of the psychological science of language processing?
+(To me, this is really tricky:  social meaning is so idiosyncratic and
+context-dependent that it seems really hard to study it in any kind of
+controlled way in the lab...which is not to say that it's an intellectually
+worthwhile thing to study, just that it's hard to integrate it into our
+communities of practice...)
+
+Link between last week (pragmatics, what you COULD have said affecting the
+meaning of what you did) and indexical fields ([ɪn] by Northerners is read as an
+affectation of folksiness, [ɪŋ] by Southerners as pretentious).
+
+What does "iconic" mean in the context of third-wave sociolinguistics?
