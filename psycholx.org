@@ -1603,3 +1603,119 @@ graded, or /categorical/ and symbolic/discrete?  Why?  It might help to consider
 separately (1) the variation that actually /exists in the world/ and (2) the
 mental model or representations that speakers and listeners use in producing and
 comprehending social meaning.
+
+** Class 8 - learning/adaptation
+Assigned two of the "classic" recalibration papers, with optional readings for
+syntactic and pragmatic.
+
+*** Readings
+part of what's interesting to me here is reading these papers from our vantage
+point now and trying to project back to how these would have seemed in the
+context.
+
+**** Norris et al. 2003
+Experiment 1 - /s/ and /f/ final words, replaced one set with ambiguous
+fricative.  Shift in classification of /ɛf/-/ɛs/ continuum after exposure.
+
+Experiment 2 - rule out selective adaptation or contrast effects.  Add two new
+conditions - natural only (ambiguous words replaced with fillers) and
+ambiguous-nonword (leaving only natural endpoint).
+
+Interesting to me that in both experiments there's a fair amount of variability
+between people and words/frames in the willingness to accept the lexical cues
+(especially with potential coarticulatory cues that come from using a /f/-final
+frame).
+**** Bertelson et al. 2003
+Experiment 1 - just ambiguous mcgurk stimuli, blocks of 8 exposure/6 test,
+random order of 8 repetitions of each.
+
+Experiment 2 - add prototypical too in order to ... I forget what.
+
+They frame all this in terms of whether there are recalibration aftereffects in
+speech...previous work argued no, but that was all with high-conflict mcgurk
+stimuli (ba-va or ba-ga)
+*** Questions
+How do we know that people in these experiments are actually using the
+information source the authors claim (lexical or visual/articulatory info)?
+
+How can we explain these results?  How would you explain them in the context of
+- an IAC type model like TRACE
+- an exemplar model
+
+What do these results tell us about modularity of speech perception?
+
+Do we need to appeal to re-mapping the way the low-level sounds themselves are
+processed?
+
+**** From response papers
+Lots of questions about how the stimuli are constructed and what the effect of
+naturalness is...I think that's really interesting too.
+
+Does it matter that the continuum might not reflect natural patterns of
+within/between talker variability?
+
+Also lots of interest in the cognitive penetrability stuff.
+
+And confusion about the online/offline feedback stuff from Norris.
+
+*** Learning objectives
+identify the sources of "self-supervision" signals here.
+
+prototypical vs. ambiguous adaptors.
+
+identify what the implications of perceptual learning/recalibration are for
+theories of speech perception.  what kinds of models are compatible with these
+phenomena?  Can you translate the learning mechanisms discussed in Norris et
+al. paper to the Bertelson?
+
+compare and contrast ideas about the role of top-down context/information we've
+encountered elsewhere with the role that context is playing in
+recalibration/perceptual learning/adaptation. - what's the role of top-down
+information/context in other areas, and is it playing a different kind of role
+here or basically the same kind of role?
+
+supervised vs. unsupervised learning - is the perceptual learning we're looking
+at here /supervised/ or /unsupervised/?
+
+draw parallels between the necessity of using ambiguous stimuli to elicit
+recalibration / learning and the necessity of using balanced stimuli / avoiding
+/conflicts/ between strong cues in the constraint-based accounts of parsing.
+
+*** Prompts for discussion
+
+**** Prompt 1 - methods
+How are the ambiguous stimuli constructed in these two experiments?  How is
+learning measured?
+
+**** Prompt 2 - supervised/unsupervised learning
+The phenomena in these papers can be viewed as a form of /perceptual category
+learning/.  Is this learning better thought of as /supervised learning/ (where
+there is some kind of external information about the category), or /unsupervised
+learning/ (where it's up to the subject to figure out the categories)?  Is your
+answer the same for the two papers?
+
+My thoughts: usually the supervision signal is coming from /outside/ the system
+right?  Like you're being told by the experimenter that this is an A or a
+B...but in both these cases the signal is maybe coming from internally, which
+makes it feel more unsupervised.  On the other hand...there clearly IS a
+teaching signal here, even if it's internally generated...in the case of
+Bertelson it's the link between the visual/articulatory information and the
+possible phonemes (but even then it's not totally unambiguous!), and in the
+Norris case it's lexical.  Still both of these rely on internal assumptions to
+provide a useful teaching signal!  The articulation is not enough to tell you
+that it's /aba/, just that there's some labial involvement, which combined with
+something that's halfway between /b/ and /d/ is enough to resolve the ambiguity.
+And for the lexical stuff, you ARE HEARING many non-words, so the other category
+interpretation is not out of the question!  I wonder whether including more
+non-words that are one phoneme off from a word would reduce the strenght of the
+adaptation effect.
+
+Joselyn and Yarkin and Joseph - lexical is MORE clear
+
+**** Prompt 3 - role of top-down information/context
+Compare and contrast ideas about the role of top-down context/information we've
+encountered elsewhere with the role that context is playing in
+recalibration/perceptual learning/adaptation.  What's the role of top-down
+information/context in other areas (speech, lexical access, syntax/parsing,
+pragmatics, etc.), and is it playing a different kind of role here or basically
+the same kind of role?
