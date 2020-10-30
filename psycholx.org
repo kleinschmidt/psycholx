@@ -1,5 +1,5 @@
 #+TITLE: Grad psycholinguistics
-#+STARTUP: indent children
+#+STARTUP: indent contents
 
 * Scheduling
 
@@ -1719,3 +1719,58 @@ recalibration/perceptual learning/adaptation.  What's the role of top-down
 information/context in other areas (speech, lexical access, syntax/parsing,
 pragmatics, etc.), and is it playing a different kind of role here or basically
 the same kind of role?
+
+** Class 9 - talker specificity
+
+*** readings
+Kamide - high/low attachment preferences
+
+Ryskin et al. (2020) - atypical catgory exemplars + cover stories, ERP
+
+Kraljic et al. - generalization or not
+
+Nygaard and Pisoni (1998) - familiarize to 10 talkers, test on
+familiar/unfamiliar speech in noise ID.  isolated words or sentences (no
+evidence of cross-genearlization though...)
+
+Bradlow and Bent (2008)
+
+I think we're gonna do is the B&B, and Kraljic & Samuel 2006 and Eisner et
+al. (2005) (the Kraljic 2005 is ... a lot).
+
+Bradlow, A. R., & Bent, T. (2008). Perceptual adaptation to non-native
+speech. Cognition, 106(2),
+707–729. https://doi.org/10.1016/j.cognition.2007.04.005
+
+Eisner, F., & McQueen, J. M. (2005). The specificity of perceptual learning in
+speech processing. Perception & Psychophysics, 67(2), 224–238.
+
+Kraljic, T., & Samuel, A. G. (2006). Generalization in perceptual learning for
+speech. Psychonomic Bulletin & Review, 13(2), 262–268.
+
+**** Optional
+Kamide, Y. (2012). Learning individual talkers’ structural
+preferences. Cognition, 124(1),
+66–71. https://doi.org/10.1016/j.cognition.2012.03.001
+
+Yildirim, I., Degen, J., Tanenhaus, M. K., & Jaeger,
+T. F. (2016). Talker-specificity and adaptation in quantifier
+interpretation. Journal of Memory and Language, 87,
+128–143. https://doi.org/10.1016/j.jml.2015.08.003
+
+** Class 10 - Bayesian models
+
+** Class 11 - Information theory
+
+** (No class, thanksgiving)
+
+** Class 12 - Noisy channel
+
+*** Possible readings
+Gibson, Bergen, and Piantadosi (2013; PNAS) - evidence for semantic/syntactic
+integration via noise model
+
+Ryskin et al. (2018) - model nature of noise
+
+
+
