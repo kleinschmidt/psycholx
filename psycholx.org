@@ -1758,6 +1758,102 @@ T. F. (2016). Talker-specificity and adaptation in quantifier
 interpretation. Journal of Memory and Language, 87,
 128–143. https://doi.org/10.1016/j.jml.2015.08.003
 
+**** Eisner and McQueen 2005
+Experiment 1 - replicate Norris et al. with different talker, plus two new
+groups where test continuum was exposure talker's fricative continuum on new
+talker's vowel (both female) - still see PR
+
+Experiment 2 - male talker + exposure fricatives, still see PR (!)
+
+Experiment 3 - male talker's fricatives at test, no PR (or much weaker)
+
+Experiment 4 - male talker's fricatives in EXPOSURE with female talker's carrier
+words, male post-test - strong PR.
+
+**** Bradlow and Bent 2008
+Frame this in context of perceptual learning, structured variation, some
+evidence of generalization, use of top-down/lexical knowledge to guide learning.
+
+Experiment 1 - single talker presentation of low/med/high intelligibility
+Chinese accented talkers + med intel. slovakian.  overall find improvement over
+quartiles, better comprehension for single- vs. multi-talker condition.
+
+Experiment 2 - single- vs. multi-talker expsoure + a post-test with chinese or
+slovakian talker.  single talker is either same as post-test or different.  
+*** Questions
+Big one is...when does experience with one talker affect processing of another?
+Is perceptual learning/recalibration talker-specific, or generalize?  If we have
+long-lasting memories for individual talkers that makes it easier to understand
+them in the future, how is it possible that we can also generalize?
+
+What is a "talker" here?  A voice?  A single person.  That is, at what level is
+the match/mismatch calculated?
+
+Where does this leave exemplar models? - on the one hand, low level SOUND match
+seems to be what's being learned (fricatives cross-spliced from one talker to
+other).  on the other, you get generalization in quite different vowel frames,
+talkers, etc.
+
+Differences in how stimuli are generated for the two studies: waveform averaging
+vs. multi-cue continua
+
+What do these studies conclude about what is learned in perceptual learning?
+What is the /linguistic locus/ of learning (feature, segment, phoneme, word,
+larger?)  What is the /indexical locus/ of learning (talker? group of people?
+something else?)
+
+*** Prompts
+
+**** Prompt
+What does each of the three readings conclude about what is learned during
+perceptual learning?  What is the /linguistic unit/ that is the locus of
+learning, and what is the /social/indexical/contextual unit/ that each paper
+appeals to?  What is the basis for these claims in each paper?
+
+***** my thoughts
+Eisner & McQueen - it's the phoneme/segment (the actual fricative itself).  not
+totally clear what the indexical unit is...maybe talker?  Maybe something more
+fine-grained like the actual acoustics of the segment?  You get generalization
+as long as the fricative itself mathces which makes me think it's not JUST
+talker...
+
+Kraljic & Samuel - they come down on something like a feature...voicing, since
+it generalizes to other phonemes (dt-bp).  for the indexical, they're not so
+clear...something broader than talker, certainly.  but it's hard to say whether
+they expect things to genearlize outside the experiment
+
+Bradlow & Bent - they're "blaming" learning on correlated constellations of
+features that span multiple phonemes/words, but they don't realy have a way of
+clearly distinguishing that from a collection of individual shifts/deviations
+OTHER THAN the finding that learning generalizes when you have a bunch of
+similar talkers (same native language background).
+
+**** Prompt
+What are the differences in materials/procedure that might be relevant for
+understanding the divegent findings in Kralijc & Samuels vs. Eisner and McQueen?
+What about Bradlow and Bent compared with the other two?  Are these differences
+enough to explain the divergent findings?
+
+- fricatievs have more talker cues in them?
+- more cues were manipulated in teh continuum for d-t so maybe it's more
+  shifting a boundary on an existing space vs. mapping onto a new space
+
+**** Prompt - theories
+Where does this leave the major theories we've discussed so far?  Consider at
+least TRACE/IAC-style localist connectionist theories and episodic/exemplar
+theories.  What aspects of the findings from this week (and last week) do they
+explain naturally?  What things do they struggle to explain?
+
+Keep in mind when you're thinking about this that none of these theories were
+exactly /designed/ to handle this data, because it didn't really exist when the
+theories were being developed.  That's what makes it interesting to try to fit
+the findings into an existing framework.  One way to think about it is, what
+about these findings would /surprise/ you if you were a real believer in
+TRACE/IAC models, or exemplar models?  And what direction do these findings
+force the various theories to move in terms of the kind and size of
+representational units, the role of top-down information, etc.?
+
+
 ** Class 10 - Bayesian models
 
 ** Class 11 - Information theory
