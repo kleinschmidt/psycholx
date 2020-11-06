@@ -1854,13 +1854,26 @@ force the various theories to move in terms of the kind and size of
 representational units, the role of top-down information, etc.?
 
 
-** Class 10 - Bayesian models
+** Class 10 - Bayesian models 1
 
-** Class 11 - Information theory
+*** Readings
+Clayards, M. A., Tanenhaus, M. K., Aslin, R. N., & Jacobs, R. a. (2008). Perception of speech reflects optimal use of probabilistic speech cues. Cognition, 108(3), 804–809. https://doi.org/10.1016/j.cognition.2008.04.004
+
+Kronrod, Y., Coppess, E., & Feldman, N. H. (2016). A unified account of categorical effects in phonetic perception. Psychonomic Bulletin & Review, 23(6), 1681–1712. https://doi.org/10.3758/s13423-016-1049-y
+
+
+** Class 11 - Bayesian models 2
 
 ** (No class, thanksgiving)
 
-** Class 12 - Noisy channel
+** Class 12 - Info theory
+
+*** Possible readings
+Jaeger 2008 (UID)
+
+Piantadosi something, maybe the ambiguity paper (Piantadosi, Tily, and Gibson 2011?)
+
+** Class 13 - Noisy channel models
 
 *** Possible readings
 Gibson, Bergen, and Piantadosi (2013; PNAS) - evidence for semantic/syntactic
