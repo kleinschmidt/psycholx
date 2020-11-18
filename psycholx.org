@@ -1857,10 +1857,69 @@ representational units, the role of top-down information, etc.?
 ** Class 10 - Bayesian models 1
 
 *** Readings
-Clayards, M. A., Tanenhaus, M. K., Aslin, R. N., & Jacobs, R. a. (2008). Perception of speech reflects optimal use of probabilistic speech cues. Cognition, 108(3), 804–809. https://doi.org/10.1016/j.cognition.2008.04.004
+Clayards, M. A., Tanenhaus, M. K., Aslin, R. N., & Jacobs,
+R. a. (2008). Perception of speech reflects optimal use of probabilistic speech
+cues. Cognition, 108(3),
+804–809. https://doi.org/10.1016/j.cognition.2008.04.004
 
-Kronrod, Y., Coppess, E., & Feldman, N. H. (2016). A unified account of categorical effects in phonetic perception. Psychonomic Bulletin & Review, 23(6), 1681–1712. https://doi.org/10.3758/s13423-016-1049-y
+Kronrod, Y., Coppess, E., & Feldman, N. H. (2016). A unified account of
+categorical effects in phonetic perception. Psychonomic Bulletin & Review,
+23(6), 1681–1712. https://doi.org/10.3758/s13423-016-1049-y
 
+**** Clayards et al.
+
+**** Kronrod et al.
+
+*** Questions
+Top-down information/processing - what's the role of it here?  How is
+information from context affecting inference?  through prior but...how do you
+set the prior?
+
+What's the "noise"?  Uncertainty vs. actual variability
+
+*** Response papers
+Ryne - how do you build in temporal context?  can you treat it as a filtering
+problem?  like markov transitions with an observation model...
+
+Huteng - how do they manipulate distributions in Clayards?
+
+How do we know people are using the distributions and not... something else?
+
+*** Plan for class
+
+**** Part 1 - questions
+Think: what are the questions that these readings raised for you?  Brainstorm as
+many as you want and then pick the one or two that seem most pressing to you.
+Could be technical questions, questions about the design/procedure of the
+experimetns or the results, or big picture questions.  Then see if your group
+can answer them for you, and pick the one or two outstanding questions that seem
+most important for us all to discuss.  Start with the technical/understanding
+things, and work your way up to the "big picture" questions if there's time!
+
+***** my response
+I dunno they're all the questions I'm raising here yeah?  I guess one thign that
+came up is how they're constructing the spaces that the distributions are
+IN...is it one cue?  multiples?  a manifold?  and does that matter?
+
+the other thing is what variance is doing here...what does it mean?  
+
+**** Part 2 - evidence
+Bayesian theories are nice because they can provide relatively straightforward
+explanations of complex behaviors by appealing to small number of principles,
+but what's the specific evidence that's presented in these two papers to support
+the idea that people are doing some kind of inference under uncertainty?  Think
+about the behaviors that are being measured and what the important aspects of
+those behaviors are.  How does these Bayesian theories go beyond the traditional
+accounts of these behaviors?
+
+**** Part 3 - context, top-down information
+Previous theories we've discussed differ rather dramatically in the role they
+allow for top-down vs. bottom-up information.  How do these Bayesian theories
+handle top-down or contextual information?  How is the role of that information
+different here from the other sorts of models we've discussed?  Compare
+especially with how top-down information works in connectionist models like
+TRACE and the "spiritually related" constraint satisfaction models from other
+levels...
 
 ** Class 11 - Bayesian models 2
 
