@@ -1923,6 +1923,69 @@ levels...
 
 ** Class 11 - Bayesian models 2
 
+*** Respones papers
+Ryne - theta is a huge vector.  talker specificity - is it about the generative
+model per se, or the talker id?
+
+...ugh I really spun out here.
+
+Huteng - parametric?  sound change/frequency?  tonal categories?
+
+Yarkin - implicit learning - what is it?
+
+sten - is speech special because of the indexicality or is this really something
+general?  (making the argument for it being special)
+
+Joselyn - what determines groups?  salience/importance of individuals
+vs. "generic" - what kind of information is required to infer a new group?
+
+Joseph - what's the use of computational level modeling?  just because we can
+frame a problem a particular way doesn't mean the system is really trying to
+solve it...
+
+*** Learning objectives
+Think about alternatives to Bayesian models - how would an exemplar model handle
+these phenomena?  How about a connectionist?  Is /implicit learning/ enough to
+explain adaptation?
+
+Stability/flexibility tradeoff - 
+
+Inference about context/causes - what's the goal?  Should you always learn a
+talker specific representation?  Will an ideal adapter always learn the true
+structure of variability?
+
+Where do limitations on performance come from in a Bayesian theory?
+
+*** Discussion prompts
+I'll be upfront and say that it's hard for me to get out of my own headspace so
+I'm mostly going to let you guys drive this week.
+
+**** Prompt 1 - questions
+Think: what are the questions that this reading raised for you?  Brainstorm as
+many as you want and then pick the one or two that seem most pressing to you.
+Could be technical questions, questions about the design/procedure of the
+experiments or the results, or big picture questions.  Then see if your group
+can answer them for you, and pick the one or two outstanding questions that seem
+most important for us all to discuss.  Start with the technical/understanding
+things, and work your way up to the "big picture" questions if there's time!
+
+***** things that come up
+generative model - is it real?  in the world or in the head?
+
+the "speaker's generative model" - what is that (the speaker)?  how do you break
+things up?
+
+yarkin - when do you know category (it's supposed to be a /p/)?
+
+huteng - estimate the prior probability of /p/ (categories)
+
+what are free parameters?
+
+**** Prompt 2 - implicit learning
+Think back to the other theories we've seen this semester that incorporate
+implicit learning, or learning in general: at least connectionist and exemplar
+theories.  Can these theories account for recalibration/phonetic adaptation?
+
 ** (No class, thanksgiving)
 
 ** Class 12 - Info theory
