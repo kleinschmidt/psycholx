@@ -1988,20 +1988,22 @@ theories.  Can these theories account for recalibration/phonetic adaptation?
 
 ** (No class, thanksgiving)
 
-** Class 12 - Info theory
+** Class 12 - Noisy channel models
+
+*** readings
+Gibson, E., Bergen, L., & Piantadosi, S. T. (2013). Rational integration of
+noisy evidence and prior semantic expectations in sentence
+interpretation. Proceedings of the National Academy of Sciences, 110(20),
+8051–8056. https://doi.org/10.1073/pnas.1216438110
+
+Ryskin, R., Futrell, R., Kiran, S., & Gibson, E. (2018). Comprehenders model the
+nature of noise in the environment. Cognition, 181,
+141–150. https://doi.org/10.1016/j.cognition.2018.08.018
+
+** Class 13 - Info theory
 
 *** Possible readings
 Jaeger 2008 (UID)
 
 Piantadosi something, maybe the ambiguity paper (Piantadosi, Tily, and Gibson 2011?)
-
-** Class 13 - Noisy channel models
-
-*** Possible readings
-Gibson, Bergen, and Piantadosi (2013; PNAS) - evidence for semantic/syntactic
-integration via noise model
-
-Ryskin et al. (2018) - model nature of noise
-
-
 
