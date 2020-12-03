@@ -2000,6 +2000,59 @@ Ryskin, R., Futrell, R., Kiran, S., & Gibson, E. (2018). Comprehenders model the
 nature of noise in the environment. Cognition, 181,
 141–150. https://doi.org/10.1016/j.cognition.2018.08.018
 
+*** questions
+relate noisy channel models to the Kronrod et al.
+
+what is the noise model adn where does it come from?  they suggest that content
+words are less likely to be considered but...does it come from roughly
+meaning-equivalent choices in the production system (like these syntactic
+alternations they use in this paper...)?
+
+similar to constraint satisfaction/cue integration models: you have multiple
+noisy cues/probabilistic constraints to satisfy (observed sentence, semantic
+plausibility, etc.), final interpretation is the one that does that...
+
+what's the noise?  like, if someone just drops their articles reliably then is
+it noise anymore?  what would it take to treat that as a new variety/dialect
+vs. some kind of production or comprehension error?
+
+link to learning - sensitivity to the probabilities in these papers is assessed
+by VARYING them across conditions and looking for differences in behavior...
+
+*** learning objectives
+understand the relationship between level of noise and non-literal
+interpretation - why would non-literal interpretations be more common when the
+level of noise is high?  what about insertions vs. deletions, what makes
+deletions have higher likelihood than insertions?
+
+connect noisy channel ideas from this week with bayesian ideas from two classes
+ago - perceptual magnet effect.  overall, connect with Bayesian
+inference/generative model appraoch
+
+think about the role that /context/ plays in these theories; related, think
+about the role that /noise/ plays in these theories, vs. causal explanations or
+context-specific generative models.
+
+think about the nature of noise: is it really noise?  What makes noise noise?
+is it variability that can't be explained or modeled?  connect with the more
+general notion of a probabilistic generative model...
+
+online vs. offline.
+
+*** discussion prompts
+Review the basic ideas of the noisy channel models from the papers: (1) under
+what circumstances would a non-literal interpretation happen?  (2) why might an
+insertion error (extra word in the signal) have lower likelihood than a deletion
+error?  (3) what are the strongest pieces of evidence from these papers that
+support a noisy channel model over alternative models of how semantic and
+syntactic information guides interpretation (e.g., constraint satisfaction, cue
+integration, etc.)?
+
+In what wayss is the "noisy channel model" described in these studies similar to
+the Bayesian models from the last few weeks?  In what ways does it differ?  It
+might be worthwhile to think about the role of "noise" in the noisy channel
+model...
+
 ** Class 13 - Info theory
 
 *** Possible readings
