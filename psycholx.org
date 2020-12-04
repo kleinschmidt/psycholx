@@ -2053,6 +2053,20 @@ the Bayesian models from the last few weeks?  In what ways does it differ?  It
 might be worthwhile to think about the role of "noise" in the noisy channel
 model...
 
+My thoughts - noise is very similar to the kronrod et al paper: some kind of
+additional uncertainty is introduced and that leads your percepts to be biased
+towards interpretations that have high prior probability.  And I think there's
+an interesting parallel too between the higher-level idea that it might be
+worthwhile to make some kind of inference about the intermediate forms - either
+the detailed cue values or the string of words - on your way towards extracting
+meaning/higher level representations.
+
+But things deviate a bit more when we're thinking about variability across
+contexts..."noise" feels a bit wrong when it's part of the overall generative
+model; the whole idea behind the ideal adapter is that you want to be tracking
+these statistical contingencies and calling them "noise" seems kind of
+... denigrating.
+
 ** Class 13 - Info theory
 
 *** Possible readings
