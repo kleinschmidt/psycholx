@@ -2069,8 +2069,76 @@ these statistical contingencies and calling them "noise" seems kind of
 
 ** Class 13 - Info theory
 
-*** Possible readings
-Jaeger 2008 (UID)
+*** readings
+Piantadosi, Steven T, H. Tily, and E. Gibson. “Word Lengths Are Optimized for
+Efficient Communication.” Proceedings of the National Academy of Sciences 2010,
+no. 14 (January 2011): 1–4. https://doi.org/10.1073/pnas.1012551108.
 
-Piantadosi something, maybe the ambiguity paper (Piantadosi, Tily, and Gibson 2011?)
+Piantadosi, Steven T, Harry Tily, and Edward Gibson. “The Communicative Function
+of Ambiguity in Language.” Cognition 122, no. 3 (March 2012):
+280–91. https://doi.org/10.1016/j.cognition.2011.10.004.
 
+*** response papers
+
+**** ryne
+UID - but listen to audiobooks at 2x...
+
+**** sten
+just a consequence of UID?  what's teh relationship
+
+*** questions
+what is context?  using an n-gram model here.
+
+unification/diversification (number of words basically) vs. clarity/ease
+(probability of recovering correct message/efficient production, communication,
+and processing)
+*** discussion prompts
+What is context in these two papers?  How is context operationalized in these
+two papers?  What do you think that operationalization might miss?  What can we
+say about the effect of considering larger vs. shorter contexts across
+languages?
+
+**** context
+Both of these papers rely on the notion of context as important in understanding
+the design of language as an efficient communication system.  What role does
+context play in each paper, and how is it operationalized?
+
+PNAS: context is the N preceding words.  They say that in geenarl it can be
+anything and this is an approximation...
+
+Cognition: context is ... what?  anything that changes the distribution of
+meanings...and specifically, it's the thing that, if you take it away, makes
+meaning ambiguous.  They actually don't operationalize context AFAICT...they're
+more interested in the second point, which is that you should expect easy forms
+to be more ambiguous.
+
+
+Are both papers talking about context in the same sense or is there a
+difference?
+
+on the surface they're the same, and they're using similar terminology to talk
+about them.  but on the other hand it feels ... different somehow. like the PNAS
+paper it's something that changes the distribution of FORMS, whereas in the cogn
+paper it's distributions of MEANINGS... and also it seems like it's kind of
+backwards in teh two papers, where you have 
+
+
+Do you think these notions of context are missing anything important, and if so,
+do you think it would change the conclusions?
+
+***** yarkin joselyn and huteng
+in cogn, contexts are the OUTCOME variable of the analysis (homophones, number
+of words, etc.)
+
+***** sten ryne elif joseph
+context is preceding words.
+
+UID - what's up with that?  info RATE or variance?  total information
+transmitted by a lang?
+
+**** reflection
+one new thing you learned - 
+
+***** joseph
+learning different people's generative models - stability plasticity; where
+there's variation there's a cause
